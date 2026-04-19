@@ -1,0 +1,121 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Type checkers / linters
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environments
+.env
+.env.*
+.venv/
+venv/
+env/
+ENV/
+.python-version
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Local databases / temp files
+*.sqlite3
+*.db
+*.pid
+*.seed
+
+# OS-generated files (macOS)
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# macOS folders
+.Spotlight-V100
+.Trashes
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# PDM
+.pdm.toml
+.pdm-python
+.pdm-build/
+
+# Poetry
+poetry.lock
+
+# Pipenv
+Pipfile.lock
+
+# pyenv
+.python-version
+
+# MkDocs
+/site
+
+# mypy
+.mypy_cache/
+
+tts/venv/
+*.onnx
+*.onnx.json

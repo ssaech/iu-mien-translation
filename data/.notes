@@ -1,0 +1,26 @@
+TODO
+
+Text-to-text translation
+    Model: T5Gemma 2 270M
+^ do after completing text pairs for common phrases
+
+
+Maybe have two translation modes in UI:
+    Phrase
+
+    Single word
+        might be simpler than templates
+
+Explore effects of training on single word to word.
+    this alternative to needing templates
+
+Explore working with templates later like "My name is ___"
+
+
+
+
+
+
+IDEAS
+
+Is more like a thesaurus instead of a dictionary. 

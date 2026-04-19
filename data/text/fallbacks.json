@@ -1,0 +1,2151 @@
+[
+  {
+    "id": "fb001",
+    "category": "fallback",
+    "concept": "identity",
+    "english": "Name",
+    "mien": "Mbuox"
+  },
+  {
+    "id": "fb002",
+    "category": "fallback",
+    "concept": "age",
+    "english": "Age",
+    "mien": ""
+  },
+  {
+    "id": "fb003",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Address",
+    "mien": ""
+  },
+  {
+    "id": "fb004",
+    "category": "fallback",
+    "concept": "object",
+    "english": "Phone",
+    "mien": ""
+  },
+  {
+    "id": "fb005",
+    "category": "fallback",
+    "concept": "quantity",
+    "english": "Number",
+    "mien": ""
+  },
+  {
+    "id": "fb006",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Family",
+    "mien": ""
+  },
+  {
+    "id": "fb007",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Child",
+    "mien": ""
+  },
+  {
+    "id": "fb008",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Baby",
+    "mien": ""
+  },
+  {
+    "id": "fb009",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Parent",
+    "mien": ""
+  },
+  {
+    "id": "fb010",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Mother",
+    "mien": ""
+  },
+  {
+    "id": "fb011",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Father",
+    "mien": ""
+  },
+  {
+    "id": "fb012",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Brother",
+    "mien": ""
+  },
+  {
+    "id": "fb013",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Sister",
+    "mien": ""
+  },
+  {
+    "id": "fb014",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Husband",
+    "mien": ""
+  },
+  {
+    "id": "fb015",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Wife",
+    "mien": ""
+  },
+  {
+    "id": "fb016",
+    "category": "fallback",
+    "concept": "person",
+    "english": "Friend",
+    "mien": ""
+  },
+  {
+    "id": "fb017",
+    "category": "fallback",
+    "concept": "education",
+    "english": "Teacher",
+    "mien": ""
+  },
+  {
+    "id": "fb018",
+    "category": "fallback",
+    "concept": "medical",
+    "english": "Doctor",
+    "mien": ""
+  },
+  {
+    "id": "fb019",
+    "category": "fallback",
+    "concept": "medical",
+    "english": "Nurse",
+    "mien": ""
+  },
+  {
+    "id": "fb020",
+    "category": "fallback",
+    "concept": "medical",
+    "english": "Patient",
+    "mien": ""
+  },
+  {
+    "id": "fb021",
+    "category": "fallback",
+    "concept": "person",
+    "english": "Who",
+    "mien": ""
+  },
+  {
+    "id": "fb022",
+    "category": "fallback",
+    "concept": "thing",
+    "english": "What",
+    "mien": ""
+  },
+  {
+    "id": "fb023",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Where",
+    "mien": ""
+  },
+  {
+    "id": "fb024",
+    "category": "fallback",
+    "concept": "time",
+    "english": "When",
+    "mien": ""
+  },
+  {
+    "id": "fb025",
+    "category": "fallback",
+    "concept": "reason",
+    "english": "Why",
+    "mien": ""
+  },
+  {
+    "id": "fb026",
+    "category": "fallback",
+    "concept": "manner",
+    "english": "How",
+    "mien": ""
+  },
+  {
+    "id": "fb027",
+    "category": "fallback",
+    "concept": "choice",
+    "english": "Which",
+    "mien": ""
+  },
+  {
+    "id": "fb028",
+    "category": "fallback",
+    "concept": "amount",
+    "english": "How Much",
+    "mien": ""
+  },
+  {
+    "id": "fb029",
+    "category": "fallback",
+    "concept": "quantity",
+    "english": "How Many",
+    "mien": ""
+  },
+  {
+    "id": "fb030",
+    "category": "fallback",
+    "concept": "self",
+    "english": "I",
+    "mien": ""
+  },
+  {
+    "id": "fb031",
+    "category": "fallback",
+    "concept": "self",
+    "english": "Me",
+    "mien": ""
+  },
+  {
+    "id": "fb032",
+    "category": "fallback",
+    "concept": "other",
+    "english": "You",
+    "mien": ""
+  },
+  {
+    "id": "fb033",
+    "category": "fallback",
+    "concept": "person",
+    "english": "He",
+    "mien": ""
+  },
+  {
+    "id": "fb034",
+    "category": "fallback",
+    "concept": "person",
+    "english": "She",
+    "mien": ""
+  },
+  {
+    "id": "fb035",
+    "category": "fallback",
+    "concept": "self",
+    "english": "We",
+    "mien": ""
+  },
+  {
+    "id": "fb036",
+    "category": "fallback",
+    "concept": "person",
+    "english": "They",
+    "mien": ""
+  },
+  {
+    "id": "fb037",
+    "category": "fallback",
+    "concept": "person",
+    "english": "Him",
+    "mien": ""
+  },
+  {
+    "id": "fb038",
+    "category": "fallback",
+    "concept": "person",
+    "english": "Her",
+    "mien": ""
+  },
+  {
+    "id": "fb039",
+    "category": "fallback",
+    "concept": "person",
+    "english": "Them",
+    "mien": ""
+  },
+  {
+    "id": "fb040",
+    "category": "fallback",
+    "concept": "self",
+    "english": "My",
+    "mien": ""
+  },
+  {
+    "id": "fb041",
+    "category": "fallback",
+    "concept": "other",
+    "english": "Your",
+    "mien": ""
+  },
+  {
+    "id": "fb042",
+    "category": "fallback",
+    "concept": "self",
+    "english": "Our",
+    "mien": ""
+  },
+  {
+    "id": "fb043",
+    "category": "fallback",
+    "concept": "person",
+    "english": "This Person",
+    "mien": ""
+  },
+  {
+    "id": "fb044",
+    "category": "fallback",
+    "concept": "person",
+    "english": "That Person",
+    "mien": ""
+  },
+  {
+    "id": "fb045",
+    "category": "fallback",
+    "concept": "response",
+    "english": "Yes",
+    "mien": ""
+  },
+  {
+    "id": "fb046",
+    "category": "fallback",
+    "concept": "response",
+    "english": "No",
+    "mien": ""
+  },
+  {
+    "id": "fb047",
+    "category": "fallback",
+    "concept": "response",
+    "english": "Maybe",
+    "mien": ""
+  },
+  {
+    "id": "fb048",
+    "category": "fallback",
+    "concept": "response",
+    "english": "Okay",
+    "mien": ""
+  },
+  {
+    "id": "fb049",
+    "category": "fallback",
+    "concept": "politeness",
+    "english": "Please",
+    "mien": ""
+  },
+  {
+    "id": "fb050",
+    "category": "fallback",
+    "concept": "politeness",
+    "english": "Thank You",
+    "mien": ""
+  },
+  {
+    "id": "fb051",
+    "category": "fallback",
+    "concept": "politeness",
+    "english": "Sorry",
+    "mien": ""
+  },
+  {
+    "id": "fb052",
+    "category": "fallback",
+    "concept": "assistance",
+    "english": "Help",
+    "mien": ""
+  },
+  {
+    "id": "fb053",
+    "category": "fallback",
+    "concept": "repeat",
+    "english": "Again",
+    "mien": ""
+  },
+  {
+    "id": "fb054",
+    "category": "fallback",
+    "concept": "speed",
+    "english": "Slowly",
+    "mien": ""
+  },
+  {
+    "id": "fb055",
+    "category": "fallback",
+    "concept": "understanding",
+    "english": "Understand",
+    "mien": ""
+  },
+  {
+    "id": "fb056",
+    "category": "fallback",
+    "concept": "understanding",
+    "english": "Do Not Understand",
+    "mien": ""
+  },
+  {
+    "id": "fb057",
+    "category": "fallback",
+    "concept": "communication",
+    "english": "Speak",
+    "mien": ""
+  },
+  {
+    "id": "fb058",
+    "category": "fallback",
+    "concept": "communication",
+    "english": "Listen",
+    "mien": ""
+  },
+  {
+    "id": "fb059",
+    "category": "fallback",
+    "concept": "wait",
+    "english": "Wait",
+    "mien": ""
+  },
+  {
+    "id": "fb060",
+    "category": "fallback",
+    "concept": "stop",
+    "english": "Stop",
+    "mien": ""
+  },
+  {
+    "id": "fb061",
+    "category": "fallback",
+    "concept": "attention",
+    "english": "Look",
+    "mien": ""
+  },
+  {
+    "id": "fb062",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Here",
+    "mien": ""
+  },
+  {
+    "id": "fb063",
+    "category": "fallback",
+    "concept": "location",
+    "english": "There",
+    "mien": ""
+  },
+  {
+    "id": "fb064",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Now",
+    "mien": ""
+  },
+  {
+    "id": "fb065",
+    "category": "fallback",
+    "concept": "movement",
+    "english": "Go",
+    "mien": ""
+  },
+  {
+    "id": "fb066",
+    "category": "fallback",
+    "concept": "movement",
+    "english": "Come",
+    "mien": ""
+  },
+  {
+    "id": "fb067",
+    "category": "fallback",
+    "concept": "movement",
+    "english": "Leave",
+    "mien": ""
+  },
+  {
+    "id": "fb068",
+    "category": "fallback",
+    "concept": "movement",
+    "english": "Return",
+    "mien": ""
+  },
+  {
+    "id": "fb069",
+    "category": "fallback",
+    "concept": "movement",
+    "english": "Bring",
+    "mien": ""
+  },
+  {
+    "id": "fb070",
+    "category": "fallback",
+    "concept": "movement",
+    "english": "Take",
+    "mien": ""
+  },
+  {
+    "id": "fb071",
+    "category": "fallback",
+    "concept": "transfer",
+    "english": "Give",
+    "mien": ""
+  },
+  {
+    "id": "fb072",
+    "category": "fallback",
+    "concept": "obtain",
+    "english": "Get",
+    "mien": ""
+  },
+  {
+    "id": "fb073",
+    "category": "fallback",
+    "concept": "placement",
+    "english": "Put",
+    "mien": ""
+  },
+  {
+    "id": "fb074",
+    "category": "fallback",
+    "concept": "open_close",
+    "english": "Open",
+    "mien": ""
+  },
+  {
+    "id": "fb075",
+    "category": "fallback",
+    "concept": "open_close",
+    "english": "Close",
+    "mien": ""
+  },
+  {
+    "id": "fb076",
+    "category": "fallback",
+    "concept": "posture",
+    "english": "Sit",
+    "mien": ""
+  },
+  {
+    "id": "fb077",
+    "category": "fallback",
+    "concept": "posture",
+    "english": "Stand",
+    "mien": ""
+  },
+  {
+    "id": "fb078",
+    "category": "fallback",
+    "concept": "rest",
+    "english": "Sleep",
+    "mien": ""
+  },
+  {
+    "id": "fb079",
+    "category": "fallback",
+    "concept": "rest",
+    "english": "Wake",
+    "mien": ""
+  },
+  {
+    "id": "fb080",
+    "category": "fallback",
+    "concept": "food_action",
+    "english": "Eat",
+    "mien": ""
+  },
+  {
+    "id": "fb081",
+    "category": "fallback",
+    "concept": "food_action",
+    "english": "Drink",
+    "mien": ""
+  },
+  {
+    "id": "fb082",
+    "category": "fallback",
+    "concept": "food_action",
+    "english": "Cook",
+    "mien": ""
+  },
+  {
+    "id": "fb083",
+    "category": "fallback",
+    "concept": "cleaning",
+    "english": "Wash",
+    "mien": ""
+  },
+  {
+    "id": "fb084",
+    "category": "fallback",
+    "concept": "cleaning",
+    "english": "Clean",
+    "mien": ""
+  },
+  {
+    "id": "fb085",
+    "category": "fallback",
+    "concept": "contact",
+    "english": "Call",
+    "mien": ""
+  },
+  {
+    "id": "fb086",
+    "category": "fallback",
+    "concept": "question",
+    "english": "Ask",
+    "mien": ""
+  },
+  {
+    "id": "fb087",
+    "category": "fallback",
+    "concept": "inform",
+    "english": "Tell",
+    "mien": ""
+  },
+  {
+    "id": "fb088",
+    "category": "fallback",
+    "concept": "communication",
+    "english": "Show",
+    "mien": ""
+  },
+  {
+    "id": "fb089",
+    "category": "fallback",
+    "concept": "communication",
+    "english": "Follow",
+    "mien": ""
+  },
+  {
+    "id": "fb090",
+    "category": "fallback",
+    "concept": "possession",
+    "english": "Find",
+    "mien": ""
+  },
+  {
+    "id": "fb091",
+    "category": "fallback",
+    "concept": "possession",
+    "english": "Lose",
+    "mien": ""
+  },
+  {
+    "id": "fb092",
+    "category": "fallback",
+    "concept": "knowledge",
+    "english": "Know",
+    "mien": ""
+  },
+  {
+    "id": "fb093",
+    "category": "fallback",
+    "concept": "need_preference",
+    "english": "Need",
+    "mien": ""
+  },
+  {
+    "id": "fb094",
+    "category": "fallback",
+    "concept": "need_preference",
+    "english": "Want",
+    "mien": ""
+  },
+  {
+    "id": "fb095",
+    "category": "fallback",
+    "concept": "need_preference",
+    "english": "Like",
+    "mien": ""
+  },
+  {
+    "id": "fb096",
+    "category": "fallback",
+    "concept": "work_study",
+    "english": "Work",
+    "mien": ""
+  },
+  {
+    "id": "fb097",
+    "category": "fallback",
+    "concept": "work_study",
+    "english": "Study",
+    "mien": ""
+  },
+  {
+    "id": "fb098",
+    "category": "fallback",
+    "concept": "work_study",
+    "english": "Read",
+    "mien": ""
+  },
+  {
+    "id": "fb099",
+    "category": "fallback",
+    "concept": "work_study",
+    "english": "Write",
+    "mien": ""
+  },
+  {
+    "id": "fb100",
+    "category": "fallback",
+    "concept": "transaction",
+    "english": "Pay",
+    "mien": ""
+  },
+  {
+    "id": "fb101",
+    "category": "fallback",
+    "concept": "transaction",
+    "english": "Buy",
+    "mien": ""
+  },
+  {
+    "id": "fb102",
+    "category": "fallback",
+    "concept": "transaction",
+    "english": "Sell",
+    "mien": ""
+  },
+  {
+    "id": "fb103",
+    "category": "fallback",
+    "concept": "rest",
+    "english": "Rest",
+    "mien": ""
+  },
+  {
+    "id": "fb104",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Inside",
+    "mien": ""
+  },
+  {
+    "id": "fb105",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Outside",
+    "mien": ""
+  },
+  {
+    "id": "fb106",
+    "category": "fallback",
+    "concept": "place",
+    "english": "Home",
+    "mien": ""
+  },
+  {
+    "id": "fb107",
+    "category": "fallback",
+    "concept": "home",
+    "english": "House",
+    "mien": ""
+  },
+  {
+    "id": "fb108",
+    "category": "fallback",
+    "concept": "home",
+    "english": "Room",
+    "mien": ""
+  },
+  {
+    "id": "fb109",
+    "category": "fallback",
+    "concept": "home",
+    "english": "Kitchen",
+    "mien": ""
+  },
+  {
+    "id": "fb110",
+    "category": "fallback",
+    "concept": "home",
+    "english": "Bathroom",
+    "mien": ""
+  },
+  {
+    "id": "fb111",
+    "category": "fallback",
+    "concept": "home",
+    "english": "Bedroom",
+    "mien": ""
+  },
+  {
+    "id": "fb112",
+    "category": "fallback",
+    "concept": "home",
+    "english": "Table",
+    "mien": ""
+  },
+  {
+    "id": "fb113",
+    "category": "fallback",
+    "concept": "home",
+    "english": "Chair",
+    "mien": ""
+  },
+  {
+    "id": "fb114",
+    "category": "fallback",
+    "concept": "home",
+    "english": "Bed",
+    "mien": ""
+  },
+  {
+    "id": "fb115",
+    "category": "fallback",
+    "concept": "home",
+    "english": "Door",
+    "mien": ""
+  },
+  {
+    "id": "fb116",
+    "category": "fallback",
+    "concept": "home",
+    "english": "Window",
+    "mien": ""
+  },
+  {
+    "id": "fb117",
+    "category": "fallback",
+    "concept": "place",
+    "english": "Road",
+    "mien": ""
+  },
+  {
+    "id": "fb118",
+    "category": "fallback",
+    "concept": "place",
+    "english": "Street",
+    "mien": ""
+  },
+  {
+    "id": "fb119",
+    "category": "fallback",
+    "concept": "place",
+    "english": "Store",
+    "mien": ""
+  },
+  {
+    "id": "fb120",
+    "category": "fallback",
+    "concept": "place",
+    "english": "School",
+    "mien": ""
+  },
+  {
+    "id": "fb121",
+    "category": "fallback",
+    "concept": "place",
+    "english": "Church",
+    "mien": ""
+  },
+  {
+    "id": "fb122",
+    "category": "fallback",
+    "concept": "place",
+    "english": "Clinic",
+    "mien": ""
+  },
+  {
+    "id": "fb123",
+    "category": "fallback",
+    "concept": "place",
+    "english": "Hospital",
+    "mien": ""
+  },
+  {
+    "id": "fb124",
+    "category": "fallback",
+    "concept": "home",
+    "english": "Office",
+    "mien": ""
+  },
+  {
+    "id": "fb125",
+    "category": "fallback",
+    "concept": "place",
+    "english": "Community Center",
+    "mien": ""
+  },
+  {
+    "id": "fb126",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Left",
+    "mien": ""
+  },
+  {
+    "id": "fb127",
+    "category": "fallback",
+    "concept": "direction",
+    "english": "Right",
+    "mien": ""
+  },
+  {
+    "id": "fb128",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Straight",
+    "mien": ""
+  },
+  {
+    "id": "fb129",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Near",
+    "mien": ""
+  },
+  {
+    "id": "fb130",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Far",
+    "mien": ""
+  },
+  {
+    "id": "fb131",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Front",
+    "mien": ""
+  },
+  {
+    "id": "fb132",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Back",
+    "mien": ""
+  },
+  {
+    "id": "fb133",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Up",
+    "mien": ""
+  },
+  {
+    "id": "fb134",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Down",
+    "mien": ""
+  },
+  {
+    "id": "fb135",
+    "category": "fallback",
+    "concept": "location",
+    "english": "In",
+    "mien": ""
+  },
+  {
+    "id": "fb136",
+    "category": "fallback",
+    "concept": "location",
+    "english": "Out",
+    "mien": ""
+  },
+  {
+    "id": "fb137",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Time",
+    "mien": ""
+  },
+  {
+    "id": "fb138",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Day",
+    "mien": ""
+  },
+  {
+    "id": "fb139",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Night",
+    "mien": ""
+  },
+  {
+    "id": "fb140",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Morning",
+    "mien": ""
+  },
+  {
+    "id": "fb141",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Afternoon",
+    "mien": ""
+  },
+  {
+    "id": "fb142",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Evening",
+    "mien": ""
+  },
+  {
+    "id": "fb143",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Today",
+    "mien": ""
+  },
+  {
+    "id": "fb144",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Tomorrow",
+    "mien": ""
+  },
+  {
+    "id": "fb145",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Yesterday",
+    "mien": ""
+  },
+  {
+    "id": "fb146",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Later",
+    "mien": ""
+  },
+  {
+    "id": "fb147",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Early",
+    "mien": ""
+  },
+  {
+    "id": "fb148",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Late",
+    "mien": ""
+  },
+  {
+    "id": "fb149",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Week",
+    "mien": ""
+  },
+  {
+    "id": "fb150",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Month",
+    "mien": ""
+  },
+  {
+    "id": "fb151",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Year",
+    "mien": ""
+  },
+  {
+    "id": "fb152",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Minute",
+    "mien": ""
+  },
+  {
+    "id": "fb153",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Hour",
+    "mien": ""
+  },
+  {
+    "id": "fb154",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Soon",
+    "mien": ""
+  },
+  {
+    "id": "fb155",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Already",
+    "mien": ""
+  },
+  {
+    "id": "fb156",
+    "category": "fallback",
+    "concept": "time",
+    "english": "Not Yet",
+    "mien": ""
+  },
+  {
+    "id": "fb157",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Head",
+    "mien": ""
+  },
+  {
+    "id": "fb158",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Eye",
+    "mien": ""
+  },
+  {
+    "id": "fb159",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Ear",
+    "mien": ""
+  },
+  {
+    "id": "fb160",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Nose",
+    "mien": ""
+  },
+  {
+    "id": "fb161",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Mouth",
+    "mien": ""
+  },
+  {
+    "id": "fb162",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Tooth",
+    "mien": ""
+  },
+  {
+    "id": "fb163",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Throat",
+    "mien": ""
+  },
+  {
+    "id": "fb164",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Neck",
+    "mien": ""
+  },
+  {
+    "id": "fb165",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Chest",
+    "mien": ""
+  },
+  {
+    "id": "fb166",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Stomach",
+    "mien": ""
+  },
+  {
+    "id": "fb167",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Arm",
+    "mien": ""
+  },
+  {
+    "id": "fb168",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Hand",
+    "mien": ""
+  },
+  {
+    "id": "fb169",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Finger",
+    "mien": ""
+  },
+  {
+    "id": "fb170",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Leg",
+    "mien": ""
+  },
+  {
+    "id": "fb171",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Foot",
+    "mien": ""
+  },
+  {
+    "id": "fb172",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Skin",
+    "mien": ""
+  },
+  {
+    "id": "fb173",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Heart",
+    "mien": ""
+  },
+  {
+    "id": "fb174",
+    "category": "fallback",
+    "concept": "blood",
+    "english": "Blood",
+    "mien": ""
+  },
+  {
+    "id": "fb175",
+    "category": "fallback",
+    "concept": "body",
+    "english": "Face",
+    "mien": ""
+  },
+  {
+    "id": "fb176",
+    "category": "fallback",
+    "concept": "pain",
+    "english": "Pain",
+    "mien": ""
+  },
+  {
+    "id": "fb177",
+    "category": "fallback",
+    "concept": "pain",
+    "english": "Hurt",
+    "mien": ""
+  },
+  {
+    "id": "fb178",
+    "category": "fallback",
+    "concept": "symptom",
+    "english": "Sick",
+    "mien": ""
+  },
+  {
+    "id": "fb179",
+    "category": "fallback",
+    "concept": "symptom",
+    "english": "Fever",
+    "mien": ""
+  },
+  {
+    "id": "fb180",
+    "category": "fallback",
+    "concept": "symptom",
+    "english": "Cough",
+    "mien": ""
+  },
+  {
+    "id": "fb181",
+    "category": "fallback",
+    "concept": "illness",
+    "english": "Cold",
+    "mien": ""
+  },
+  {
+    "id": "fb182",
+    "category": "fallback",
+    "concept": "state",
+    "english": "Hot",
+    "mien": ""
+  },
+  {
+    "id": "fb183",
+    "category": "fallback",
+    "concept": "state",
+    "english": "Dizzy",
+    "mien": ""
+  },
+  {
+    "id": "fb184",
+    "category": "fallback",
+    "concept": "state",
+    "english": "Weak",
+    "mien": ""
+  },
+  {
+    "id": "fb185",
+    "category": "fallback",
+    "concept": "state",
+    "english": "Tired",
+    "mien": ""
+  },
+  {
+    "id": "fb186",
+    "category": "fallback",
+    "concept": "pain",
+    "english": "Headache",
+    "mien": ""
+  },
+  {
+    "id": "fb187",
+    "category": "fallback",
+    "concept": "symptom",
+    "english": "Nausea",
+    "mien": ""
+  },
+  {
+    "id": "fb188",
+    "category": "fallback",
+    "concept": "symptom",
+    "english": "Vomiting",
+    "mien": ""
+  },
+  {
+    "id": "fb189",
+    "category": "fallback",
+    "concept": "symptom",
+    "english": "Diarrhea",
+    "mien": ""
+  },
+  {
+    "id": "fb190",
+    "category": "fallback",
+    "concept": "symptom",
+    "english": "Rash",
+    "mien": ""
+  },
+  {
+    "id": "fb191",
+    "category": "fallback",
+    "concept": "symptom",
+    "english": "Swelling",
+    "mien": ""
+  },
+  {
+    "id": "fb192",
+    "category": "fallback",
+    "concept": "medical_emergency",
+    "english": "Breathing",
+    "mien": ""
+  },
+  {
+    "id": "fb193",
+    "category": "fallback",
+    "concept": "symptom",
+    "english": "Allergy",
+    "mien": ""
+  },
+  {
+    "id": "fb194",
+    "category": "fallback",
+    "concept": "medicine",
+    "english": "Medicine",
+    "mien": ""
+  },
+  {
+    "id": "fb195",
+    "category": "fallback",
+    "concept": "symptom",
+    "english": "Pregnant",
+    "mien": ""
+  },
+  {
+    "id": "fb196",
+    "category": "fallback",
+    "concept": "safety",
+    "english": "Emergency",
+    "mien": ""
+  },
+  {
+    "id": "fb197",
+    "category": "fallback",
+    "concept": "safety",
+    "english": "Danger",
+    "mien": ""
+  },
+  {
+    "id": "fb198",
+    "category": "fallback",
+    "concept": "fire",
+    "english": "Fire",
+    "mien": ""
+  },
+  {
+    "id": "fb199",
+    "category": "fallback",
+    "concept": "fire",
+    "english": "Smoke",
+    "mien": ""
+  },
+  {
+    "id": "fb200",
+    "category": "fallback",
+    "concept": "emergency_service",
+    "english": "Police",
+    "mien": ""
+  },
+  {
+    "id": "fb201",
+    "category": "fallback",
+    "concept": "emergency_service",
+    "english": "Ambulance",
+    "mien": ""
+  },
+  {
+    "id": "fb202",
+    "category": "fallback",
+    "concept": "weapon",
+    "english": "Weapon",
+    "mien": ""
+  },
+  {
+    "id": "fb203",
+    "category": "fallback",
+    "concept": "weapon",
+    "english": "Gun",
+    "mien": ""
+  },
+  {
+    "id": "fb204",
+    "category": "fallback",
+    "concept": "weapon",
+    "english": "Knife",
+    "mien": ""
+  },
+  {
+    "id": "fb205",
+    "category": "fallback",
+    "concept": "medical_emergency",
+    "english": "Unconscious",
+    "mien": ""
+  },
+  {
+    "id": "fb206",
+    "category": "fallback",
+    "concept": "medical_emergency",
+    "english": "Choking",
+    "mien": ""
+  },
+  {
+    "id": "fb207",
+    "category": "fallback",
+    "concept": "medical_emergency",
+    "english": "Stroke",
+    "mien": ""
+  },
+  {
+    "id": "fb208",
+    "category": "fallback",
+    "concept": "medical_emergency",
+    "english": "Seizure",
+    "mien": ""
+  },
+  {
+    "id": "fb209",
+    "category": "fallback",
+    "concept": "danger",
+    "english": "Accident",
+    "mien": ""
+  },
+  {
+    "id": "fb210",
+    "category": "fallback",
+    "concept": "danger",
+    "english": "Crash",
+    "mien": ""
+  },
+  {
+    "id": "fb211",
+    "category": "fallback",
+    "concept": "danger",
+    "english": "Trapped",
+    "mien": ""
+  },
+  {
+    "id": "fb212",
+    "category": "fallback",
+    "concept": "danger",
+    "english": "Threat",
+    "mien": ""
+  },
+  {
+    "id": "fb213",
+    "category": "fallback",
+    "concept": "danger",
+    "english": "Hit",
+    "mien": ""
+  },
+  {
+    "id": "fb214",
+    "category": "fallback",
+    "concept": "danger",
+    "english": "Fight",
+    "mien": ""
+  },
+  {
+    "id": "fb215",
+    "category": "fallback",
+    "concept": "escape",
+    "english": "Run",
+    "mien": ""
+  },
+  {
+    "id": "fb216",
+    "category": "fallback",
+    "concept": "escape",
+    "english": "Hide",
+    "mien": ""
+  },
+  {
+    "id": "fb217",
+    "category": "fallback",
+    "concept": "safety",
+    "english": "Safe",
+    "mien": ""
+  },
+  {
+    "id": "fb218",
+    "category": "fallback",
+    "concept": "safety",
+    "english": "Unsafe",
+    "mien": ""
+  },
+  {
+    "id": "fb219",
+    "category": "fallback",
+    "concept": "safety",
+    "english": "Urgent",
+    "mien": ""
+  },
+  {
+    "id": "fb220",
+    "category": "fallback",
+    "concept": "emergency_service",
+    "english": "911",
+    "mien": ""
+  },
+  {
+    "id": "fb221",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Food",
+    "mien": ""
+  },
+  {
+    "id": "fb222",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Water",
+    "mien": ""
+  },
+  {
+    "id": "fb223",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Rice",
+    "mien": ""
+  },
+  {
+    "id": "fb224",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Soup",
+    "mien": ""
+  },
+  {
+    "id": "fb225",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Noodles",
+    "mien": ""
+  },
+  {
+    "id": "fb226",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Meat",
+    "mien": ""
+  },
+  {
+    "id": "fb227",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Chicken",
+    "mien": ""
+  },
+  {
+    "id": "fb228",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Pork",
+    "mien": ""
+  },
+  {
+    "id": "fb229",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Fish",
+    "mien": ""
+  },
+  {
+    "id": "fb230",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Egg",
+    "mien": ""
+  },
+  {
+    "id": "fb231",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Vegetable",
+    "mien": ""
+  },
+  {
+    "id": "fb232",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Fruit",
+    "mien": ""
+  },
+  {
+    "id": "fb233",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Salt",
+    "mien": ""
+  },
+  {
+    "id": "fb234",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Sugar",
+    "mien": ""
+  },
+  {
+    "id": "fb235",
+    "category": "fallback",
+    "concept": "food",
+    "english": "Tea",
+    "mien": ""
+  },
+  {
+    "id": "fb236",
+    "category": "fallback",
+    "concept": "food_item",
+    "english": "Bowl",
+    "mien": ""
+  },
+  {
+    "id": "fb237",
+    "category": "fallback",
+    "concept": "food_item",
+    "english": "Spoon",
+    "mien": ""
+  },
+  {
+    "id": "fb238",
+    "category": "fallback",
+    "concept": "food_item",
+    "english": "Chopsticks",
+    "mien": ""
+  },
+  {
+    "id": "fb239",
+    "category": "fallback",
+    "concept": "temperature",
+    "english": "Hot",
+    "mien": ""
+  },
+  {
+    "id": "fb240",
+    "category": "fallback",
+    "concept": "temperature",
+    "english": "Cold",
+    "mien": ""
+  },
+  {
+    "id": "fb241",
+    "category": "fallback",
+    "concept": "state",
+    "english": "Hungry",
+    "mien": ""
+  },
+  {
+    "id": "fb242",
+    "category": "fallback",
+    "concept": "state",
+    "english": "Thirsty",
+    "mien": ""
+  },
+  {
+    "id": "fb243",
+    "category": "fallback",
+    "concept": "state",
+    "english": "Full",
+    "mien": ""
+  },
+  {
+    "id": "fb244",
+    "category": "fallback",
+    "concept": "object",
+    "english": "Charger",
+    "mien": ""
+  },
+  {
+    "id": "fb245",
+    "category": "fallback",
+    "concept": "household_item",
+    "english": "Bag",
+    "mien": ""
+  },
+  {
+    "id": "fb246",
+    "category": "fallback",
+    "concept": "household_item",
+    "english": "Shoes",
+    "mien": ""
+  },
+  {
+    "id": "fb247",
+    "category": "fallback",
+    "concept": "household_item",
+    "english": "Clothes",
+    "mien": ""
+  },
+  {
+    "id": "fb248",
+    "category": "fallback",
+    "concept": "household_item",
+    "english": "Jacket",
+    "mien": ""
+  },
+  {
+    "id": "fb249",
+    "category": "fallback",
+    "concept": "object",
+    "english": "Key",
+    "mien": ""
+  },
+  {
+    "id": "fb250",
+    "category": "fallback",
+    "concept": "household_item",
+    "english": "Wallet",
+    "mien": ""
+  },
+  {
+    "id": "fb251",
+    "category": "fallback",
+    "concept": "money",
+    "english": "Money",
+    "mien": ""
+  },
+  {
+    "id": "fb252",
+    "category": "fallback",
+    "concept": "document",
+    "english": "Paper",
+    "mien": ""
+  },
+  {
+    "id": "fb253",
+    "category": "fallback",
+    "concept": "object",
+    "english": "Pen",
+    "mien": ""
+  },
+  {
+    "id": "fb254",
+    "category": "fallback",
+    "concept": "object",
+    "english": "Book",
+    "mien": ""
+  },
+  {
+    "id": "fb255",
+    "category": "fallback",
+    "concept": "illumination",
+    "english": "Light",
+    "mien": ""
+  },
+  {
+    "id": "fb256",
+    "category": "fallback",
+    "concept": "household_item",
+    "english": "Soap",
+    "mien": ""
+  },
+  {
+    "id": "fb257",
+    "category": "fallback",
+    "concept": "household_item",
+    "english": "Towel",
+    "mien": ""
+  },
+  {
+    "id": "fb258",
+    "category": "fallback",
+    "concept": "household_item",
+    "english": "Blanket",
+    "mien": ""
+  },
+  {
+    "id": "fb259",
+    "category": "fallback",
+    "concept": "household_item",
+    "english": "Pillow",
+    "mien": ""
+  },
+  {
+    "id": "fb260",
+    "category": "fallback",
+    "concept": "food_item",
+    "english": "Bottle",
+    "mien": ""
+  },
+  {
+    "id": "fb261",
+    "category": "fallback",
+    "concept": "food_item",
+    "english": "Cup",
+    "mien": ""
+  },
+  {
+    "id": "fb262",
+    "category": "fallback",
+    "concept": "household_item",
+    "english": "Trash",
+    "mien": ""
+  },
+  {
+    "id": "fb263",
+    "category": "fallback",
+    "concept": "money",
+    "english": "Price",
+    "mien": ""
+  },
+  {
+    "id": "fb264",
+    "category": "fallback",
+    "concept": "money",
+    "english": "Cheap",
+    "mien": ""
+  },
+  {
+    "id": "fb265",
+    "category": "fallback",
+    "concept": "money",
+    "english": "Expensive",
+    "mien": ""
+  },
+  {
+    "id": "fb266",
+    "category": "fallback",
+    "concept": "quantity",
+    "english": "One",
+    "mien": ""
+  },
+  {
+    "id": "fb267",
+    "category": "fallback",
+    "concept": "quantity",
+    "english": "Two",
+    "mien": ""
+  },
+  {
+    "id": "fb268",
+    "category": "fallback",
+    "concept": "quantity",
+    "english": "More",
+    "mien": ""
+  },
+  {
+    "id": "fb269",
+    "category": "fallback",
+    "concept": "quantity",
+    "english": "Less",
+    "mien": ""
+  },
+  {
+    "id": "fb270",
+    "category": "fallback",
+    "concept": "money",
+    "english": "Receipt",
+    "mien": ""
+  },
+  {
+    "id": "fb271",
+    "category": "fallback",
+    "concept": "place",
+    "english": "Market",
+    "mien": ""
+  },
+  {
+    "id": "fb272",
+    "category": "fallback",
+    "concept": "money",
+    "english": "Change",
+    "mien": ""
+  },
+  {
+    "id": "fb273",
+    "category": "fallback",
+    "concept": "document",
+    "english": "Document",
+    "mien": ""
+  },
+  {
+    "id": "fb274",
+    "category": "fallback",
+    "concept": "document",
+    "english": "Form",
+    "mien": ""
+  },
+  {
+    "id": "fb275",
+    "category": "fallback",
+    "concept": "appointment",
+    "english": "Appointment",
+    "mien": ""
+  },
+  {
+    "id": "fb276",
+    "category": "fallback",
+    "concept": "identity_document",
+    "english": "Id",
+    "mien": ""
+  },
+  {
+    "id": "fb277",
+    "category": "fallback",
+    "concept": "identity_document",
+    "english": "Passport",
+    "mien": ""
+  },
+  {
+    "id": "fb278",
+    "category": "fallback",
+    "concept": "identity_document",
+    "english": "Card",
+    "mien": ""
+  },
+  {
+    "id": "fb279",
+    "category": "fallback",
+    "concept": "administration",
+    "english": "Insurance",
+    "mien": ""
+  },
+  {
+    "id": "fb280",
+    "category": "fallback",
+    "concept": "administration",
+    "english": "Benefits",
+    "mien": ""
+  },
+  {
+    "id": "fb281",
+    "category": "fallback",
+    "concept": "administration",
+    "english": "Case",
+    "mien": ""
+  },
+  {
+    "id": "fb282",
+    "category": "fallback",
+    "concept": "appointment",
+    "english": "Interview",
+    "mien": ""
+  },
+  {
+    "id": "fb283",
+    "category": "fallback",
+    "concept": "appointment",
+    "english": "Meeting",
+    "mien": ""
+  },
+  {
+    "id": "fb284",
+    "category": "fallback",
+    "concept": "correctness",
+    "english": "Right",
+    "mien": ""
+  },
+  {
+    "id": "fb285",
+    "category": "fallback",
+    "concept": "weight",
+    "english": "Light",
+    "mien": ""
+  },
+  {
+    "id": "fb286",
+    "category": "fallback",
+    "concept": "illumination",
+    "english": "Light",
+    "mien": ""
+  },
+  {
+    "id": "fb287",
+    "category": "fallback",
+    "concept": "ability",
+    "english": "Can",
+    "mien": ""
+  },
+  {
+    "id": "fb288",
+    "category": "fallback",
+    "concept": "container",
+    "english": "Can",
+    "mien": ""
+  },
+  {
+    "id": "fb289",
+    "category": "fallback",
+    "concept": "obtain",
+    "english": "Get",
+    "mien": ""
+  },
+  {
+    "id": "fb290",
+    "category": "fallback",
+    "concept": "change",
+    "english": "Get",
+    "mien": ""
+  },
+  {
+    "id": "fb291",
+    "category": "fallback",
+    "concept": "movement",
+    "english": "Take",
+    "mien": ""
+  },
+  {
+    "id": "fb292",
+    "category": "fallback",
+    "concept": "consume",
+    "english": "Take",
+    "mien": ""
+  },
+  {
+    "id": "fb293",
+    "category": "fallback",
+    "concept": "placement",
+    "english": "Put",
+    "mien": ""
+  },
+  {
+    "id": "fb294",
+    "category": "fallback",
+    "concept": "cause",
+    "english": "Put",
+    "mien": ""
+  },
+  {
+    "id": "fb295",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Uncle",
+    "mien": ""
+  },
+  {
+    "id": "fb296",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Aunt",
+    "mien": ""
+  },
+  {
+    "id": "fb297",
+    "category": "fallback",
+    "concept": "family",
+    "english": "Cousin",
+    "mien": ""
+  },
+  {
+    "id": "fb298",
+    "category": "fallback",
+    "concept": "place",
+    "english": "Home",
+    "mien": ""
+  },
+  {
+    "id": "fb299",
+    "category": "fallback",
+    "concept": "movement",
+    "english": "Home",
+    "mien": ""
+  },
+  {
+    "id": "fb300",
+    "category": "fallback",
+    "concept": "medicine",
+    "english": "Medicine",
+    "mien": ""
+  },
+  {
+    "id": "fb301",
+    "category": "fallback",
+    "concept": "treatment",
+    "english": "Medicine",
+    "mien": ""
+  },
+  {
+    "id": "fb302",
+    "category": "fallback",
+    "concept": "contact",
+    "english": "Call",
+    "mien": ""
+  },
+  {
+    "id": "fb303",
+    "category": "fallback",
+    "concept": "request",
+    "english": "Call",
+    "mien": ""
+  },
+  {
+    "id": "fb304",
+    "category": "fallback",
+    "concept": "inform",
+    "english": "Tell",
+    "mien": ""
+  },
+  {
+    "id": "fb305",
+    "category": "fallback",
+    "concept": "story",
+    "english": "Tell",
+    "mien": ""
+  },
+  {
+    "id": "fb306",
+    "category": "fallback",
+    "concept": "question",
+    "english": "Ask",
+    "mien": ""
+  },
+  {
+    "id": "fb307",
+    "category": "fallback",
+    "concept": "request",
+    "english": "Ask",
+    "mien": ""
+  }
+]

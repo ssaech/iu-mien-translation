@@ -1,0 +1,5738 @@
+[
+  {
+    "id": "g001",
+    "category": "conversation",
+    "english": "Hello.",
+    "mien": ""
+  },
+  {
+    "id": "g002",
+    "category": "conversation",
+    "english": "Hi.",
+    "mien": ""
+  },
+  {
+    "id": "g003",
+    "category": "conversation",
+    "english": "Good morning.",
+    "mien": ""
+  },
+  {
+    "id": "g004",
+    "category": "conversation",
+    "english": "Good afternoon.",
+    "mien": ""
+  },
+  {
+    "id": "g005",
+    "category": "conversation",
+    "english": "Good evening.",
+    "mien": ""
+  },
+  {
+    "id": "g006",
+    "category": "conversation",
+    "english": "Good night.",
+    "mien": ""
+  },
+  {
+    "id": "g007",
+    "category": "conversation",
+    "english": "How are you?",
+    "mien": "Yiem longx nyei?"
+  },
+  {
+    "id": "g008",
+    "category": "conversation",
+    "english": "I am fine.",
+    "mien": ""
+  },
+  {
+    "id": "g009",
+    "category": "conversation",
+    "english": "I am good.",
+    "mien": ""
+  },
+  {
+    "id": "g010",
+    "category": "conversation",
+    "english": "I am tired.",
+    "mien": ""
+  },
+  {
+    "id": "g011",
+    "category": "conversation",
+    "english": "Nice to meet you.",
+    "mien": ""
+  },
+  {
+    "id": "g012",
+    "category": "conversation",
+    "english": "It is good to see you.",
+    "mien": ""
+  },
+  {
+    "id": "g013",
+    "category": "conversation",
+    "english": "Welcome.",
+    "mien": ""
+  },
+  {
+    "id": "g014",
+    "category": "conversation",
+    "english": "Please come in.",
+    "mien": ""
+  },
+  {
+    "id": "g015",
+    "category": "conversation",
+    "english": "Please sit down.",
+    "mien": ""
+  },
+  {
+    "id": "g016",
+    "category": "conversation",
+    "english": "Please wait here.",
+    "mien": ""
+  },
+  {
+    "id": "g017",
+    "category": "conversation",
+    "english": "Please listen.",
+    "mien": ""
+  },
+  {
+    "id": "g018",
+    "category": "conversation",
+    "english": "Please speak slowly.",
+    "mien": ""
+  },
+  {
+    "id": "g019",
+    "category": "conversation",
+    "english": "Please say it again.",
+    "mien": ""
+  },
+  {
+    "id": "g020",
+    "category": "conversation",
+    "english": "I understand.",
+    "mien": ""
+  },
+  {
+    "id": "g021",
+    "category": "conversation",
+    "english": "I do not understand.",
+    "mien": ""
+  },
+  {
+    "id": "g022",
+    "category": "conversation",
+    "english": "Thank you.",
+    "mien": ""
+  },
+  {
+    "id": "g023",
+    "category": "conversation",
+    "english": "Thank you very much.",
+    "mien": ""
+  },
+  {
+    "id": "g024",
+    "category": "conversation",
+    "english": "You are welcome.",
+    "mien": ""
+  },
+  {
+    "id": "g025",
+    "category": "conversation",
+    "english": "Please.",
+    "mien": ""
+  },
+  {
+    "id": "g026",
+    "category": "conversation",
+    "english": "Excuse me.",
+    "mien": ""
+  },
+  {
+    "id": "g027",
+    "category": "conversation",
+    "english": "I am sorry.",
+    "mien": ""
+  },
+  {
+    "id": "g028",
+    "category": "conversation",
+    "english": "That is okay.",
+    "mien": ""
+  },
+  {
+    "id": "g029",
+    "category": "conversation",
+    "english": "No problem.",
+    "mien": ""
+  },
+  {
+    "id": "g030",
+    "category": "conversation",
+    "english": "Yes.",
+    "mien": ""
+  },
+  {
+    "id": "g031",
+    "category": "conversation",
+    "english": "No.",
+    "mien": ""
+  },
+  {
+    "id": "g032",
+    "category": "conversation",
+    "english": "Maybe.",
+    "mien": ""
+  },
+  {
+    "id": "g033",
+    "category": "conversation",
+    "english": "Of course.",
+    "mien": ""
+  },
+  {
+    "id": "g034",
+    "category": "conversation",
+    "english": "Not yet.",
+    "mien": ""
+  },
+  {
+    "id": "g035",
+    "category": "conversation",
+    "english": "Not now.",
+    "mien": ""
+  },
+  {
+    "id": "g036",
+    "category": "conversation",
+    "english": "See you later.",
+    "mien": ""
+  },
+  {
+    "id": "g037",
+    "category": "conversation",
+    "english": "See you tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "g038",
+    "category": "conversation",
+    "english": "Take care.",
+    "mien": ""
+  },
+  {
+    "id": "g039",
+    "category": "conversation",
+    "english": "Goodbye.",
+    "mien": ""
+  },
+  {
+    "id": "g040",
+    "category": "conversation",
+    "english": "Have a safe trip.",
+    "mien": ""
+  },
+  {
+    "id": "f001",
+    "category": "people",
+    "english": "What is your name?",
+    "mien": ""
+  },
+  {
+    "id": "f002",
+    "category": "people",
+    "english": "My name is ___.",
+    "mien": ""
+  },
+  {
+    "id": "f003",
+    "category": "people",
+    "english": "Who are you?",
+    "mien": ""
+  },
+  {
+    "id": "f004",
+    "category": "people",
+    "english": "I am your friend.",
+    "mien": ""
+  },
+  {
+    "id": "f005",
+    "category": "people",
+    "english": "I am your family member.",
+    "mien": ""
+  },
+  {
+    "id": "f006",
+    "category": "people",
+    "english": "He is my friend.",
+    "mien": ""
+  },
+  {
+    "id": "f007",
+    "category": "people",
+    "english": "She is my friend.",
+    "mien": ""
+  },
+  {
+    "id": "f008",
+    "category": "people",
+    "english": "This is my father.",
+    "mien": ""
+  },
+  {
+    "id": "f009",
+    "category": "people",
+    "english": "This is my mother.",
+    "mien": ""
+  },
+  {
+    "id": "f010",
+    "category": "people",
+    "english": "This is my son.",
+    "mien": ""
+  },
+  {
+    "id": "f011",
+    "category": "people",
+    "english": "This is my daughter.",
+    "mien": ""
+  },
+  {
+    "id": "f012",
+    "category": "people",
+    "english": "This is my older brother.",
+    "mien": ""
+  },
+  {
+    "id": "f013",
+    "category": "people",
+    "english": "This is my younger brother.",
+    "mien": ""
+  },
+  {
+    "id": "f014",
+    "category": "people",
+    "english": "This is my older sister.",
+    "mien": ""
+  },
+  {
+    "id": "f015",
+    "category": "people",
+    "english": "This is my younger sister.",
+    "mien": ""
+  },
+  {
+    "id": "f016",
+    "category": "people",
+    "english": "This is my grandfather.",
+    "mien": ""
+  },
+  {
+    "id": "f017",
+    "category": "people",
+    "english": "This is my grandmother.",
+    "mien": ""
+  },
+  {
+    "id": "f018",
+    "category": "people",
+    "english": "This is my uncle.",
+    "mien": ""
+  },
+  {
+    "id": "f019",
+    "category": "people",
+    "english": "This is my aunt.",
+    "mien": ""
+  },
+  {
+    "id": "f020",
+    "category": "people",
+    "english": "This is my cousin.",
+    "mien": ""
+  },
+  {
+    "id": "f021",
+    "category": "people",
+    "english": "This is my husband.",
+    "mien": ""
+  },
+  {
+    "id": "f022",
+    "category": "people",
+    "english": "This is my wife.",
+    "mien": ""
+  },
+  {
+    "id": "f023",
+    "category": "people",
+    "english": "This is my baby.",
+    "mien": ""
+  },
+  {
+    "id": "f024",
+    "category": "people",
+    "english": "Who is he?",
+    "mien": ""
+  },
+  {
+    "id": "f025",
+    "category": "people",
+    "english": "Who is she?",
+    "mien": ""
+  },
+  {
+    "id": "f026",
+    "category": "people",
+    "english": "Who is this?",
+    "mien": ""
+  },
+  {
+    "id": "f027",
+    "category": "people",
+    "english": "Where is your father?",
+    "mien": ""
+  },
+  {
+    "id": "f028",
+    "category": "people",
+    "english": "Where is your mother?",
+    "mien": ""
+  },
+  {
+    "id": "f029",
+    "category": "people",
+    "english": "Where is your brother?",
+    "mien": ""
+  },
+  {
+    "id": "f030",
+    "category": "people",
+    "english": "Where is your sister?",
+    "mien": ""
+  },
+  {
+    "id": "f031",
+    "category": "people",
+    "english": "My father is here.",
+    "mien": ""
+  },
+  {
+    "id": "f032",
+    "category": "people",
+    "english": "My mother is here.",
+    "mien": ""
+  },
+  {
+    "id": "f033",
+    "category": "people",
+    "english": "My brother is here.",
+    "mien": ""
+  },
+  {
+    "id": "f034",
+    "category": "people",
+    "english": "My sister is here.",
+    "mien": ""
+  },
+  {
+    "id": "f035",
+    "category": "people",
+    "english": "My family is here.",
+    "mien": ""
+  },
+  {
+    "id": "f036",
+    "category": "people",
+    "english": "My family is at home.",
+    "mien": ""
+  },
+  {
+    "id": "f037",
+    "category": "people",
+    "english": "I have one son.",
+    "mien": ""
+  },
+  {
+    "id": "f038",
+    "category": "people",
+    "english": "I have one daughter.",
+    "mien": ""
+  },
+  {
+    "id": "f039",
+    "category": "people",
+    "english": "I have two children.",
+    "mien": ""
+  },
+  {
+    "id": "f040",
+    "category": "people",
+    "english": "Do you have children?",
+    "mien": ""
+  },
+  {
+    "id": "f041",
+    "category": "people",
+    "english": "How many children do you have?",
+    "mien": ""
+  },
+  {
+    "id": "f042",
+    "category": "people",
+    "english": "He is my father.",
+    "mien": ""
+  },
+  {
+    "id": "f043",
+    "category": "people",
+    "english": "She is my mother.",
+    "mien": ""
+  },
+  {
+    "id": "f044",
+    "category": "people",
+    "english": "He is my older brother.",
+    "mien": ""
+  },
+  {
+    "id": "f045",
+    "category": "people",
+    "english": "He is my younger brother.",
+    "mien": ""
+  },
+  {
+    "id": "f046",
+    "category": "people",
+    "english": "She is my older sister.",
+    "mien": ""
+  },
+  {
+    "id": "f047",
+    "category": "people",
+    "english": "She is my younger sister.",
+    "mien": ""
+  },
+  {
+    "id": "f048",
+    "category": "people",
+    "english": "They are my parents.",
+    "mien": ""
+  },
+  {
+    "id": "f049",
+    "category": "people",
+    "english": "They are my grandparents.",
+    "mien": ""
+  },
+  {
+    "id": "f050",
+    "category": "people",
+    "english": "We are family.",
+    "mien": ""
+  },
+  {
+    "id": "f051",
+    "category": "people",
+    "english": "He is not here.",
+    "mien": ""
+  },
+  {
+    "id": "f052",
+    "category": "people",
+    "english": "She is not here.",
+    "mien": ""
+  },
+  {
+    "id": "f053",
+    "category": "people",
+    "english": "My father is not home.",
+    "mien": ""
+  },
+  {
+    "id": "f054",
+    "category": "people",
+    "english": "My mother is not home.",
+    "mien": ""
+  },
+  {
+    "id": "f055",
+    "category": "people",
+    "english": "Is this your father?",
+    "mien": ""
+  },
+  {
+    "id": "f056",
+    "category": "people",
+    "english": "Is this your mother?",
+    "mien": ""
+  },
+  {
+    "id": "f057",
+    "category": "people",
+    "english": "Is he your brother?",
+    "mien": ""
+  },
+  {
+    "id": "f058",
+    "category": "people",
+    "english": "Is she your sister?",
+    "mien": ""
+  },
+  {
+    "id": "f059",
+    "category": "people",
+    "english": "Please call your mother.",
+    "mien": ""
+  },
+  {
+    "id": "f060",
+    "category": "people",
+    "english": "Please call your father.",
+    "mien": ""
+  },
+  {
+    "id": "h001",
+    "category": "home",
+    "english": "I am at home.",
+    "mien": ""
+  },
+  {
+    "id": "h002",
+    "category": "home",
+    "english": "I am going home.",
+    "mien": ""
+  },
+  {
+    "id": "h003",
+    "category": "home",
+    "english": "I am coming home.",
+    "mien": ""
+  },
+  {
+    "id": "h004",
+    "category": "home",
+    "english": "I am inside the house.",
+    "mien": ""
+  },
+  {
+    "id": "h005",
+    "category": "home",
+    "english": "I am outside the house.",
+    "mien": ""
+  },
+  {
+    "id": "h006",
+    "category": "home",
+    "english": "Please come inside.",
+    "mien": ""
+  },
+  {
+    "id": "h007",
+    "category": "home",
+    "english": "Please go outside.",
+    "mien": ""
+  },
+  {
+    "id": "h008",
+    "category": "home",
+    "english": "Open the door.",
+    "mien": ""
+  },
+  {
+    "id": "h009",
+    "category": "home",
+    "english": "Close the door.",
+    "mien": ""
+  },
+  {
+    "id": "h010",
+    "category": "home",
+    "english": "Open the window.",
+    "mien": ""
+  },
+  {
+    "id": "h011",
+    "category": "home",
+    "english": "Close the window.",
+    "mien": ""
+  },
+  {
+    "id": "h012",
+    "category": "home",
+    "english": "Turn on the light.",
+    "mien": ""
+  },
+  {
+    "id": "h013",
+    "category": "home",
+    "english": "Turn off the light.",
+    "mien": ""
+  },
+  {
+    "id": "h014",
+    "category": "home",
+    "english": "The room is dark.",
+    "mien": ""
+  },
+  {
+    "id": "h015",
+    "category": "home",
+    "english": "The room is bright.",
+    "mien": ""
+  },
+  {
+    "id": "h016",
+    "category": "home",
+    "english": "Please sit here.",
+    "mien": ""
+  },
+  {
+    "id": "h017",
+    "category": "home",
+    "english": "Please stand here.",
+    "mien": ""
+  },
+  {
+    "id": "h018",
+    "category": "home",
+    "english": "Please sleep now.",
+    "mien": ""
+  },
+  {
+    "id": "h019",
+    "category": "home",
+    "english": "I am going to sleep.",
+    "mien": ""
+  },
+  {
+    "id": "h020",
+    "category": "home",
+    "english": "I am awake.",
+    "mien": ""
+  },
+  {
+    "id": "h021",
+    "category": "home",
+    "english": "I woke up early.",
+    "mien": ""
+  },
+  {
+    "id": "h022",
+    "category": "home",
+    "english": "I woke up late.",
+    "mien": ""
+  },
+  {
+    "id": "h023",
+    "category": "home",
+    "english": "I am tired.",
+    "mien": ""
+  },
+  {
+    "id": "h024",
+    "category": "home",
+    "english": "I need to rest.",
+    "mien": ""
+  },
+  {
+    "id": "h025",
+    "category": "home",
+    "english": "Please wake me up tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "h026",
+    "category": "home",
+    "english": "I am washing my hands.",
+    "mien": ""
+  },
+  {
+    "id": "h027",
+    "category": "home",
+    "english": "Please wash your hands.",
+    "mien": ""
+  },
+  {
+    "id": "h028",
+    "category": "home",
+    "english": "I am washing my face.",
+    "mien": ""
+  },
+  {
+    "id": "h029",
+    "category": "home",
+    "english": "I am taking a bath.",
+    "mien": ""
+  },
+  {
+    "id": "h030",
+    "category": "home",
+    "english": "I am taking a shower.",
+    "mien": ""
+  },
+  {
+    "id": "h031",
+    "category": "home",
+    "english": "I am getting dressed.",
+    "mien": ""
+  },
+  {
+    "id": "h032",
+    "category": "home",
+    "english": "I am changing clothes.",
+    "mien": ""
+  },
+  {
+    "id": "h033",
+    "category": "home",
+    "english": "My clothes are wet.",
+    "mien": ""
+  },
+  {
+    "id": "h034",
+    "category": "home",
+    "english": "My clothes are dry.",
+    "mien": ""
+  },
+  {
+    "id": "h035",
+    "category": "home",
+    "english": "Please bring my shoes.",
+    "mien": ""
+  },
+  {
+    "id": "h036",
+    "category": "home",
+    "english": "Where are my shoes?",
+    "mien": ""
+  },
+  {
+    "id": "h037",
+    "category": "home",
+    "english": "Where is my bag?",
+    "mien": ""
+  },
+  {
+    "id": "h038",
+    "category": "home",
+    "english": "Where is my phone?",
+    "mien": ""
+  },
+  {
+    "id": "h039",
+    "category": "home",
+    "english": "My phone is here.",
+    "mien": ""
+  },
+  {
+    "id": "h040",
+    "category": "home",
+    "english": "My bag is there.",
+    "mien": ""
+  },
+  {
+    "id": "h041",
+    "category": "home",
+    "english": "Please clean the table.",
+    "mien": ""
+  },
+  {
+    "id": "h042",
+    "category": "home",
+    "english": "Please clean the room.",
+    "mien": ""
+  },
+  {
+    "id": "h043",
+    "category": "home",
+    "english": "The house is clean.",
+    "mien": ""
+  },
+  {
+    "id": "h044",
+    "category": "home",
+    "english": "The house is dirty.",
+    "mien": ""
+  },
+  {
+    "id": "h045",
+    "category": "home",
+    "english": "I am sweeping the floor.",
+    "mien": ""
+  },
+  {
+    "id": "h046",
+    "category": "home",
+    "english": "I am washing the dishes.",
+    "mien": ""
+  },
+  {
+    "id": "h047",
+    "category": "home",
+    "english": "Please wash the dishes.",
+    "mien": ""
+  },
+  {
+    "id": "h048",
+    "category": "home",
+    "english": "I am doing the laundry.",
+    "mien": ""
+  },
+  {
+    "id": "h049",
+    "category": "home",
+    "english": "Please fold the clothes.",
+    "mien": ""
+  },
+  {
+    "id": "h050",
+    "category": "home",
+    "english": "Please put this away.",
+    "mien": ""
+  },
+  {
+    "id": "h051",
+    "category": "home",
+    "english": "Put it on the table.",
+    "mien": ""
+  },
+  {
+    "id": "h052",
+    "category": "home",
+    "english": "Put it under the table.",
+    "mien": ""
+  },
+  {
+    "id": "h053",
+    "category": "home",
+    "english": "Put it in the bag.",
+    "mien": ""
+  },
+  {
+    "id": "h054",
+    "category": "home",
+    "english": "Take it out of the bag.",
+    "mien": ""
+  },
+  {
+    "id": "h055",
+    "category": "home",
+    "english": "Please give it to me.",
+    "mien": ""
+  },
+  {
+    "id": "h056",
+    "category": "home",
+    "english": "Please help me carry this.",
+    "mien": ""
+  },
+  {
+    "id": "h057",
+    "category": "home",
+    "english": "This is heavy.",
+    "mien": ""
+  },
+  {
+    "id": "h058",
+    "category": "home",
+    "english": "This is light.",
+    "mien": ""
+  },
+  {
+    "id": "h059",
+    "category": "home",
+    "english": "The water is hot.",
+    "mien": ""
+  },
+  {
+    "id": "h060",
+    "category": "home",
+    "english": "The water is cold.",
+    "mien": ""
+  },
+  {
+    "id": "h061",
+    "category": "home",
+    "english": "Please boil water.",
+    "mien": ""
+  },
+  {
+    "id": "h062",
+    "category": "home",
+    "english": "Please bring water.",
+    "mien": ""
+  },
+  {
+    "id": "h063",
+    "category": "home",
+    "english": "There is no water.",
+    "mien": ""
+  },
+  {
+    "id": "h064",
+    "category": "home",
+    "english": "There is enough water.",
+    "mien": ""
+  },
+  {
+    "id": "h065",
+    "category": "home",
+    "english": "I am leaving now.",
+    "mien": ""
+  },
+  {
+    "id": "h066",
+    "category": "home",
+    "english": "I am coming back soon.",
+    "mien": ""
+  },
+  {
+    "id": "h067",
+    "category": "home",
+    "english": "Please stay here.",
+    "mien": ""
+  },
+  {
+    "id": "h068",
+    "category": "home",
+    "english": "Do not go outside.",
+    "mien": ""
+  },
+  {
+    "id": "h069",
+    "category": "home",
+    "english": "I am ready.",
+    "mien": ""
+  },
+  {
+    "id": "h070",
+    "category": "home",
+    "english": "I am not ready.",
+    "mien": ""
+  },
+  {
+    "id": "fd001",
+    "category": "food",
+    "english": "I am hungry.",
+    "mien": ""
+  },
+  {
+    "id": "fd002",
+    "category": "food",
+    "english": "I am thirsty.",
+    "mien": ""
+  },
+  {
+    "id": "fd003",
+    "category": "food",
+    "english": "Do you want to eat?",
+    "mien": ""
+  },
+  {
+    "id": "fd004",
+    "category": "food",
+    "english": "Do you want to drink water?",
+    "mien": ""
+  },
+  {
+    "id": "fd005",
+    "category": "food",
+    "english": "I want to eat.",
+    "mien": ""
+  },
+  {
+    "id": "fd006",
+    "category": "food",
+    "english": "I want to drink water.",
+    "mien": ""
+  },
+  {
+    "id": "fd007",
+    "category": "food",
+    "english": "I am eating rice.",
+    "mien": ""
+  },
+  {
+    "id": "fd008",
+    "category": "food",
+    "english": "I am eating vegetables.",
+    "mien": ""
+  },
+  {
+    "id": "fd009",
+    "category": "food",
+    "english": "I am eating meat.",
+    "mien": ""
+  },
+  {
+    "id": "fd010",
+    "category": "food",
+    "english": "I am drinking water.",
+    "mien": ""
+  },
+  {
+    "id": "fd011",
+    "category": "food",
+    "english": "I am drinking tea.",
+    "mien": ""
+  },
+  {
+    "id": "fd012",
+    "category": "food",
+    "english": "The food is ready.",
+    "mien": ""
+  },
+  {
+    "id": "fd013",
+    "category": "food",
+    "english": "The food is hot.",
+    "mien": ""
+  },
+  {
+    "id": "fd014",
+    "category": "food",
+    "english": "The food is cold.",
+    "mien": ""
+  },
+  {
+    "id": "fd015",
+    "category": "food",
+    "english": "The food is good.",
+    "mien": ""
+  },
+  {
+    "id": "fd016",
+    "category": "food",
+    "english": "The food is not good.",
+    "mien": ""
+  },
+  {
+    "id": "fd017",
+    "category": "food",
+    "english": "Please eat.",
+    "mien": ""
+  },
+  {
+    "id": "fd018",
+    "category": "food",
+    "english": "Please drink.",
+    "mien": ""
+  },
+  {
+    "id": "fd019",
+    "category": "food",
+    "english": "Please cook rice.",
+    "mien": ""
+  },
+  {
+    "id": "fd020",
+    "category": "food",
+    "english": "Please cook vegetables.",
+    "mien": ""
+  },
+  {
+    "id": "fd021",
+    "category": "food",
+    "english": "Please boil water.",
+    "mien": ""
+  },
+  {
+    "id": "fd022",
+    "category": "food",
+    "english": "Please bring a bowl.",
+    "mien": ""
+  },
+  {
+    "id": "fd023",
+    "category": "food",
+    "english": "Please bring a spoon.",
+    "mien": ""
+  },
+  {
+    "id": "fd024",
+    "category": "food",
+    "english": "Please bring chopsticks.",
+    "mien": ""
+  },
+  {
+    "id": "fd025",
+    "category": "food",
+    "english": "Please give me water.",
+    "mien": ""
+  },
+  {
+    "id": "fd026",
+    "category": "food",
+    "english": "Please give me rice.",
+    "mien": ""
+  },
+  {
+    "id": "fd027",
+    "category": "food",
+    "english": "There is no rice.",
+    "mien": ""
+  },
+  {
+    "id": "fd028",
+    "category": "food",
+    "english": "There is no water.",
+    "mien": ""
+  },
+  {
+    "id": "fd029",
+    "category": "food",
+    "english": "I ate already.",
+    "mien": ""
+  },
+  {
+    "id": "fd030",
+    "category": "food",
+    "english": "I did not eat yet.",
+    "mien": ""
+  },
+  {
+    "id": "fd031",
+    "category": "food",
+    "english": "Please sit and eat.",
+    "mien": ""
+  },
+  {
+    "id": "fd032",
+    "category": "food",
+    "english": "Please eat more.",
+    "mien": ""
+  },
+  {
+    "id": "fd033",
+    "category": "food",
+    "english": "Please drink more water.",
+    "mien": ""
+  },
+  {
+    "id": "fd034",
+    "category": "food",
+    "english": "This rice is hot.",
+    "mien": ""
+  },
+  {
+    "id": "fd035",
+    "category": "food",
+    "english": "This soup is hot.",
+    "mien": ""
+  },
+  {
+    "id": "fd036",
+    "category": "food",
+    "english": "This water is cold.",
+    "mien": ""
+  },
+  {
+    "id": "fd037",
+    "category": "food",
+    "english": "I am full.",
+    "mien": ""
+  },
+  {
+    "id": "fd038",
+    "category": "food",
+    "english": "I am still hungry.",
+    "mien": ""
+  },
+  {
+    "id": "fd039",
+    "category": "food",
+    "english": "I want more rice.",
+    "mien": ""
+  },
+  {
+    "id": "fd040",
+    "category": "food",
+    "english": "I want more water.",
+    "mien": ""
+  },
+  {
+    "id": "fd041",
+    "category": "food",
+    "english": "Do you want more rice?",
+    "mien": ""
+  },
+  {
+    "id": "fd042",
+    "category": "food",
+    "english": "Do you want more water?",
+    "mien": ""
+  },
+  {
+    "id": "fd043",
+    "category": "food",
+    "english": "Please cut the meat.",
+    "mien": ""
+  },
+  {
+    "id": "fd044",
+    "category": "food",
+    "english": "Please wash the vegetables.",
+    "mien": ""
+  },
+  {
+    "id": "fd045",
+    "category": "food",
+    "english": "Please cook the meat.",
+    "mien": ""
+  },
+  {
+    "id": "fd046",
+    "category": "food",
+    "english": "The rice is not ready yet.",
+    "mien": ""
+  },
+  {
+    "id": "fd047",
+    "category": "food",
+    "english": "The water is ready.",
+    "mien": ""
+  },
+  {
+    "id": "fd048",
+    "category": "food",
+    "english": "Please put the food on the table.",
+    "mien": ""
+  },
+  {
+    "id": "fd049",
+    "category": "food",
+    "english": "Please bring the food here.",
+    "mien": ""
+  },
+  {
+    "id": "fd050",
+    "category": "food",
+    "english": "We are eating now.",
+    "mien": ""
+  },
+  {
+    "id": "t001",
+    "category": "time",
+    "english": "What time is it?",
+    "mien": ""
+  },
+  {
+    "id": "t002",
+    "category": "time",
+    "english": "It is early.",
+    "mien": ""
+  },
+  {
+    "id": "t003",
+    "category": "time",
+    "english": "It is late.",
+    "mien": ""
+  },
+  {
+    "id": "t004",
+    "category": "time",
+    "english": "It is time to go.",
+    "mien": ""
+  },
+  {
+    "id": "t005",
+    "category": "time",
+    "english": "It is time to eat.",
+    "mien": ""
+  },
+  {
+    "id": "t006",
+    "category": "time",
+    "english": "It is time to sleep.",
+    "mien": ""
+  },
+  {
+    "id": "t007",
+    "category": "time",
+    "english": "What day is today?",
+    "mien": ""
+  },
+  {
+    "id": "t008",
+    "category": "time",
+    "english": "Today is Monday.",
+    "mien": ""
+  },
+  {
+    "id": "t009",
+    "category": "time",
+    "english": "Today is Tuesday.",
+    "mien": ""
+  },
+  {
+    "id": "t010",
+    "category": "time",
+    "english": "Today is Wednesday.",
+    "mien": ""
+  },
+  {
+    "id": "t011",
+    "category": "time",
+    "english": "Today is Thursday.",
+    "mien": ""
+  },
+  {
+    "id": "t012",
+    "category": "time",
+    "english": "Today is Friday.",
+    "mien": ""
+  },
+  {
+    "id": "t013",
+    "category": "time",
+    "english": "Today is Saturday.",
+    "mien": ""
+  },
+  {
+    "id": "t014",
+    "category": "time",
+    "english": "Today is Sunday.",
+    "mien": ""
+  },
+  {
+    "id": "t015",
+    "category": "time",
+    "english": "Today is a good day.",
+    "mien": ""
+  },
+  {
+    "id": "t016",
+    "category": "time",
+    "english": "Today is busy.",
+    "mien": ""
+  },
+  {
+    "id": "t017",
+    "category": "time",
+    "english": "Today I am at home.",
+    "mien": ""
+  },
+  {
+    "id": "t018",
+    "category": "time",
+    "english": "Today I am working.",
+    "mien": ""
+  },
+  {
+    "id": "t019",
+    "category": "time",
+    "english": "Today I am resting.",
+    "mien": ""
+  },
+  {
+    "id": "t020",
+    "category": "time",
+    "english": "Tomorrow I am going out.",
+    "mien": ""
+  },
+  {
+    "id": "t021",
+    "category": "time",
+    "english": "Tomorrow I am staying home.",
+    "mien": ""
+  },
+  {
+    "id": "t022",
+    "category": "time",
+    "english": "Tomorrow we will meet.",
+    "mien": ""
+  },
+  {
+    "id": "t023",
+    "category": "time",
+    "english": "Tomorrow please come early.",
+    "mien": ""
+  },
+  {
+    "id": "t024",
+    "category": "time",
+    "english": "Tomorrow please come here.",
+    "mien": ""
+  },
+  {
+    "id": "t025",
+    "category": "time",
+    "english": "Yesterday I was at home.",
+    "mien": ""
+  },
+  {
+    "id": "t026",
+    "category": "time",
+    "english": "Yesterday I went out.",
+    "mien": ""
+  },
+  {
+    "id": "t027",
+    "category": "time",
+    "english": "Yesterday I was tired.",
+    "mien": ""
+  },
+  {
+    "id": "t028",
+    "category": "time",
+    "english": "Yesterday it was cold.",
+    "mien": ""
+  },
+  {
+    "id": "t029",
+    "category": "time",
+    "english": "This morning I ate.",
+    "mien": ""
+  },
+  {
+    "id": "t030",
+    "category": "time",
+    "english": "This morning I drank water.",
+    "mien": ""
+  },
+  {
+    "id": "t031",
+    "category": "time",
+    "english": "This morning I went outside.",
+    "mien": ""
+  },
+  {
+    "id": "t032",
+    "category": "time",
+    "english": "This afternoon I am busy.",
+    "mien": ""
+  },
+  {
+    "id": "t033",
+    "category": "time",
+    "english": "This afternoon I am free.",
+    "mien": ""
+  },
+  {
+    "id": "t034",
+    "category": "time",
+    "english": "Tonight I am staying home.",
+    "mien": ""
+  },
+  {
+    "id": "t035",
+    "category": "time",
+    "english": "Tonight I am going to sleep early.",
+    "mien": ""
+  },
+  {
+    "id": "t036",
+    "category": "time",
+    "english": "When are you coming?",
+    "mien": ""
+  },
+  {
+    "id": "t037",
+    "category": "time",
+    "english": "When are you going home?",
+    "mien": ""
+  },
+  {
+    "id": "t038",
+    "category": "time",
+    "english": "When will you arrive?",
+    "mien": ""
+  },
+  {
+    "id": "t039",
+    "category": "time",
+    "english": "Please come now.",
+    "mien": ""
+  },
+  {
+    "id": "t040",
+    "category": "time",
+    "english": "Please come later.",
+    "mien": ""
+  },
+  {
+    "id": "t041",
+    "category": "time",
+    "english": "Please come tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "t042",
+    "category": "time",
+    "english": "Please wait a moment.",
+    "mien": ""
+  },
+  {
+    "id": "t043",
+    "category": "time",
+    "english": "Please wait a little longer.",
+    "mien": ""
+  },
+  {
+    "id": "t044",
+    "category": "time",
+    "english": "I am late.",
+    "mien": ""
+  },
+  {
+    "id": "t045",
+    "category": "time",
+    "english": "Do not be late.",
+    "mien": ""
+  },
+  {
+    "id": "t046",
+    "category": "time",
+    "english": "I am early.",
+    "mien": ""
+  },
+  {
+    "id": "t047",
+    "category": "time",
+    "english": "We will go together tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "t048",
+    "category": "time",
+    "english": "We went together yesterday.",
+    "mien": ""
+  },
+  {
+    "id": "t049",
+    "category": "time",
+    "english": "I will come back tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "t050",
+    "category": "time",
+    "english": "I came back yesterday.",
+    "mien": ""
+  },
+  {
+    "id": "l001",
+    "category": "travel",
+    "english": "Where are you?",
+    "mien": ""
+  },
+  {
+    "id": "l002",
+    "category": "travel",
+    "english": "Where is he?",
+    "mien": ""
+  },
+  {
+    "id": "l003",
+    "category": "travel",
+    "english": "Where is she?",
+    "mien": ""
+  },
+  {
+    "id": "l004",
+    "category": "travel",
+    "english": "Where is this place?",
+    "mien": ""
+  },
+  {
+    "id": "l005",
+    "category": "travel",
+    "english": "I am here.",
+    "mien": ""
+  },
+  {
+    "id": "l006",
+    "category": "travel",
+    "english": "He is there.",
+    "mien": ""
+  },
+  {
+    "id": "l007",
+    "category": "travel",
+    "english": "She is over there.",
+    "mien": ""
+  },
+  {
+    "id": "l008",
+    "category": "travel",
+    "english": "Come here.",
+    "mien": ""
+  },
+  {
+    "id": "l009",
+    "category": "travel",
+    "english": "Go there.",
+    "mien": ""
+  },
+  {
+    "id": "l010",
+    "category": "travel",
+    "english": "Please come with me.",
+    "mien": ""
+  },
+  {
+    "id": "l011",
+    "category": "travel",
+    "english": "Please go with him.",
+    "mien": ""
+  },
+  {
+    "id": "l012",
+    "category": "travel",
+    "english": "Please follow me.",
+    "mien": ""
+  },
+  {
+    "id": "l013",
+    "category": "travel",
+    "english": "Stop here.",
+    "mien": ""
+  },
+  {
+    "id": "l014",
+    "category": "travel",
+    "english": "Do not go there.",
+    "mien": ""
+  },
+  {
+    "id": "l015",
+    "category": "travel",
+    "english": "Go straight.",
+    "mien": ""
+  },
+  {
+    "id": "l016",
+    "category": "travel",
+    "english": "Turn left.",
+    "mien": ""
+  },
+  {
+    "id": "l017",
+    "category": "travel",
+    "english": "Turn right.",
+    "mien": ""
+  },
+  {
+    "id": "l018",
+    "category": "travel",
+    "english": "The house is near.",
+    "mien": ""
+  },
+  {
+    "id": "l019",
+    "category": "travel",
+    "english": "The house is far.",
+    "mien": ""
+  },
+  {
+    "id": "l020",
+    "category": "travel",
+    "english": "The store is near here.",
+    "mien": ""
+  },
+  {
+    "id": "l021",
+    "category": "travel",
+    "english": "The school is over there.",
+    "mien": ""
+  },
+  {
+    "id": "l022",
+    "category": "travel",
+    "english": "The road is long.",
+    "mien": ""
+  },
+  {
+    "id": "l023",
+    "category": "travel",
+    "english": "The road is bad.",
+    "mien": ""
+  },
+  {
+    "id": "l024",
+    "category": "travel",
+    "english": "We are going together.",
+    "mien": ""
+  },
+  {
+    "id": "l025",
+    "category": "travel",
+    "english": "I am going with my family.",
+    "mien": ""
+  },
+  {
+    "id": "l026",
+    "category": "travel",
+    "english": "He is on the way.",
+    "mien": ""
+  },
+  {
+    "id": "l027",
+    "category": "travel",
+    "english": "She is almost here.",
+    "mien": ""
+  },
+  {
+    "id": "l028",
+    "category": "travel",
+    "english": "Please show me the way.",
+    "mien": ""
+  },
+  {
+    "id": "l029",
+    "category": "travel",
+    "english": "I do not know the way.",
+    "mien": ""
+  },
+  {
+    "id": "l030",
+    "category": "travel",
+    "english": "Please take me home.",
+    "mien": ""
+  },
+  {
+    "id": "hb001",
+    "category": "health",
+    "english": "I do not feel well.",
+    "mien": ""
+  },
+  {
+    "id": "hb002",
+    "category": "health",
+    "english": "I am sick.",
+    "mien": ""
+  },
+  {
+    "id": "hb003",
+    "category": "health",
+    "english": "He is sick.",
+    "mien": ""
+  },
+  {
+    "id": "hb004",
+    "category": "health",
+    "english": "She is sick.",
+    "mien": ""
+  },
+  {
+    "id": "hb005",
+    "category": "health",
+    "english": "My head hurts.",
+    "mien": ""
+  },
+  {
+    "id": "hb006",
+    "category": "health",
+    "english": "My stomach hurts.",
+    "mien": ""
+  },
+  {
+    "id": "hb007",
+    "category": "health",
+    "english": "My back hurts.",
+    "mien": ""
+  },
+  {
+    "id": "hb008",
+    "category": "health",
+    "english": "My arm hurts.",
+    "mien": ""
+  },
+  {
+    "id": "hb009",
+    "category": "health",
+    "english": "My leg hurts.",
+    "mien": ""
+  },
+  {
+    "id": "hb010",
+    "category": "health",
+    "english": "My hand hurts.",
+    "mien": ""
+  },
+  {
+    "id": "hb011",
+    "category": "health",
+    "english": "My foot hurts.",
+    "mien": ""
+  },
+  {
+    "id": "hb012",
+    "category": "health",
+    "english": "My tooth hurts.",
+    "mien": ""
+  },
+  {
+    "id": "hb013",
+    "category": "health",
+    "english": "My throat hurts.",
+    "mien": ""
+  },
+  {
+    "id": "hb014",
+    "category": "health",
+    "english": "I have a fever.",
+    "mien": ""
+  },
+  {
+    "id": "hb015",
+    "category": "health",
+    "english": "He has a fever.",
+    "mien": ""
+  },
+  {
+    "id": "hb016",
+    "category": "health",
+    "english": "She has a fever.",
+    "mien": ""
+  },
+  {
+    "id": "hb017",
+    "category": "health",
+    "english": "I am coughing.",
+    "mien": ""
+  },
+  {
+    "id": "hb018",
+    "category": "health",
+    "english": "I cannot sleep.",
+    "mien": ""
+  },
+  {
+    "id": "hb019",
+    "category": "health",
+    "english": "I am dizzy.",
+    "mien": ""
+  },
+  {
+    "id": "hb020",
+    "category": "health",
+    "english": "I am weak.",
+    "mien": ""
+  },
+  {
+    "id": "hb021",
+    "category": "health",
+    "english": "I am feeling better.",
+    "mien": ""
+  },
+  {
+    "id": "hb022",
+    "category": "health",
+    "english": "I am not feeling better.",
+    "mien": ""
+  },
+  {
+    "id": "hb023",
+    "category": "health",
+    "english": "Do you have pain?",
+    "mien": ""
+  },
+  {
+    "id": "hb024",
+    "category": "health",
+    "english": "Where does it hurt?",
+    "mien": ""
+  },
+  {
+    "id": "hb025",
+    "category": "health",
+    "english": "Does your head hurt?",
+    "mien": ""
+  },
+  {
+    "id": "hb026",
+    "category": "health",
+    "english": "Does your stomach hurt?",
+    "mien": ""
+  },
+  {
+    "id": "hb027",
+    "category": "health",
+    "english": "Do you have a fever?",
+    "mien": ""
+  },
+  {
+    "id": "hb028",
+    "category": "health",
+    "english": "Please sit down and rest.",
+    "mien": ""
+  },
+  {
+    "id": "hb029",
+    "category": "health",
+    "english": "Please lie down.",
+    "mien": ""
+  },
+  {
+    "id": "hb030",
+    "category": "health",
+    "english": "Please drink water.",
+    "mien": ""
+  },
+  {
+    "id": "hb031",
+    "category": "health",
+    "english": "Please eat something first.",
+    "mien": ""
+  },
+  {
+    "id": "hb032",
+    "category": "health",
+    "english": "Please take this medicine.",
+    "mien": ""
+  },
+  {
+    "id": "hb033",
+    "category": "health",
+    "english": "Take this medicine now.",
+    "mien": ""
+  },
+  {
+    "id": "hb034",
+    "category": "health",
+    "english": "Take this medicine tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "hb035",
+    "category": "health",
+    "english": "Please take the medicine after eating.",
+    "mien": ""
+  },
+  {
+    "id": "hb036",
+    "category": "health",
+    "english": "Please do not take too much medicine.",
+    "mien": ""
+  },
+  {
+    "id": "hb037",
+    "category": "health",
+    "english": "Please call the doctor.",
+    "mien": ""
+  },
+  {
+    "id": "hb038",
+    "category": "health",
+    "english": "We need to go to the clinic.",
+    "mien": ""
+  },
+  {
+    "id": "hb039",
+    "category": "health",
+    "english": "We need to go to the hospital.",
+    "mien": ""
+  },
+  {
+    "id": "hb040",
+    "category": "health",
+    "english": "Please come with me to the clinic.",
+    "mien": ""
+  },
+  {
+    "id": "hb041",
+    "category": "health",
+    "english": "Please tell me what happened.",
+    "mien": ""
+  },
+  {
+    "id": "hb042",
+    "category": "health",
+    "english": "I fell down.",
+    "mien": ""
+  },
+  {
+    "id": "hb043",
+    "category": "health",
+    "english": "He fell down.",
+    "mien": ""
+  },
+  {
+    "id": "hb044",
+    "category": "health",
+    "english": "She fell down.",
+    "mien": ""
+  },
+  {
+    "id": "hb045",
+    "category": "health",
+    "english": "I cut my hand.",
+    "mien": ""
+  },
+  {
+    "id": "hb046",
+    "category": "health",
+    "english": "My hand is bleeding.",
+    "mien": ""
+  },
+  {
+    "id": "hb047",
+    "category": "health",
+    "english": "Please wash the wound.",
+    "mien": ""
+  },
+  {
+    "id": "hb048",
+    "category": "health",
+    "english": "Please cover the wound.",
+    "mien": ""
+  },
+  {
+    "id": "hb049",
+    "category": "health",
+    "english": "Please be careful.",
+    "mien": ""
+  },
+  {
+    "id": "hb050",
+    "category": "health",
+    "english": "Do not touch it.",
+    "mien": ""
+  },
+  {
+    "id": "hb051",
+    "category": "health",
+    "english": "It is too hot.",
+    "mien": ""
+  },
+  {
+    "id": "hb052",
+    "category": "health",
+    "english": "It is too cold.",
+    "mien": ""
+  },
+  {
+    "id": "hb053",
+    "category": "health",
+    "english": "I feel hot.",
+    "mien": ""
+  },
+  {
+    "id": "hb054",
+    "category": "health",
+    "english": "I feel cold.",
+    "mien": ""
+  },
+  {
+    "id": "hb055",
+    "category": "health",
+    "english": "My child is sick.",
+    "mien": ""
+  },
+  {
+    "id": "hb056",
+    "category": "health",
+    "english": "My mother is sick.",
+    "mien": ""
+  },
+  {
+    "id": "hb057",
+    "category": "health",
+    "english": "My father is sick.",
+    "mien": ""
+  },
+  {
+    "id": "hb058",
+    "category": "health",
+    "english": "She needs medicine.",
+    "mien": ""
+  },
+  {
+    "id": "hb059",
+    "category": "health",
+    "english": "He needs to rest.",
+    "mien": ""
+  },
+  {
+    "id": "hb060",
+    "category": "health",
+    "english": "I need help.",
+    "mien": ""
+  },
+  {
+    "id": "sw001",
+    "category": "community",
+    "english": "I am going to school.",
+    "mien": ""
+  },
+  {
+    "id": "sw002",
+    "category": "community",
+    "english": "My child is going to school.",
+    "mien": ""
+  },
+  {
+    "id": "sw003",
+    "category": "community",
+    "english": "He is at school.",
+    "mien": ""
+  },
+  {
+    "id": "sw004",
+    "category": "community",
+    "english": "She is at school.",
+    "mien": ""
+  },
+  {
+    "id": "sw005",
+    "category": "community",
+    "english": "I am going to work.",
+    "mien": ""
+  },
+  {
+    "id": "sw006",
+    "category": "community",
+    "english": "He is at work.",
+    "mien": ""
+  },
+  {
+    "id": "sw007",
+    "category": "community",
+    "english": "She is at work.",
+    "mien": ""
+  },
+  {
+    "id": "sw008",
+    "category": "community",
+    "english": "I am busy at work.",
+    "mien": ""
+  },
+  {
+    "id": "sw009",
+    "category": "community",
+    "english": "I am not busy today.",
+    "mien": ""
+  },
+  {
+    "id": "sw010",
+    "category": "community",
+    "english": "What are you doing?",
+    "mien": ""
+  },
+  {
+    "id": "sw011",
+    "category": "community",
+    "english": "I am studying.",
+    "mien": ""
+  },
+  {
+    "id": "sw012",
+    "category": "community",
+    "english": "I am working.",
+    "mien": ""
+  },
+  {
+    "id": "sw013",
+    "category": "community",
+    "english": "I am helping.",
+    "mien": ""
+  },
+  {
+    "id": "sw014",
+    "category": "community",
+    "english": "Please help me with this work.",
+    "mien": ""
+  },
+  {
+    "id": "sw015",
+    "category": "community",
+    "english": "Please bring the paper.",
+    "mien": ""
+  },
+  {
+    "id": "sw016",
+    "category": "community",
+    "english": "Please bring the book.",
+    "mien": ""
+  },
+  {
+    "id": "sw017",
+    "category": "community",
+    "english": "Please bring the pen.",
+    "mien": ""
+  },
+  {
+    "id": "sw018",
+    "category": "community",
+    "english": "Please write your name here.",
+    "mien": ""
+  },
+  {
+    "id": "sw019",
+    "category": "community",
+    "english": "Please read this.",
+    "mien": ""
+  },
+  {
+    "id": "sw020",
+    "category": "community",
+    "english": "Please listen carefully.",
+    "mien": ""
+  },
+  {
+    "id": "sw021",
+    "category": "community",
+    "english": "Please come to the meeting.",
+    "mien": ""
+  },
+  {
+    "id": "sw022",
+    "category": "community",
+    "english": "The meeting is today.",
+    "mien": ""
+  },
+  {
+    "id": "sw023",
+    "category": "community",
+    "english": "The meeting is tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "sw024",
+    "category": "community",
+    "english": "I am going to the community center.",
+    "mien": ""
+  },
+  {
+    "id": "sw025",
+    "category": "community",
+    "english": "We are going to the community event.",
+    "mien": ""
+  },
+  {
+    "id": "sw026",
+    "category": "community",
+    "english": "Please come with your family.",
+    "mien": ""
+  },
+  {
+    "id": "sw027",
+    "category": "community",
+    "english": "The teacher is here.",
+    "mien": ""
+  },
+  {
+    "id": "sw028",
+    "category": "community",
+    "english": "The student is here.",
+    "mien": ""
+  },
+  {
+    "id": "sw029",
+    "category": "community",
+    "english": "Please ask the teacher.",
+    "mien": ""
+  },
+  {
+    "id": "sw030",
+    "category": "community",
+    "english": "Please tell the teacher.",
+    "mien": ""
+  },
+  {
+    "id": "sw031",
+    "category": "community",
+    "english": "My child needs help at school.",
+    "mien": ""
+  },
+  {
+    "id": "sw032",
+    "category": "community",
+    "english": "My child is learning.",
+    "mien": ""
+  },
+  {
+    "id": "sw033",
+    "category": "community",
+    "english": "My child is doing well.",
+    "mien": ""
+  },
+  {
+    "id": "sw034",
+    "category": "community",
+    "english": "My child is not feeling well at school.",
+    "mien": ""
+  },
+  {
+    "id": "sw035",
+    "category": "community",
+    "english": "Please call me after school.",
+    "mien": ""
+  },
+  {
+    "id": "sw036",
+    "category": "community",
+    "english": "Please come after work.",
+    "mien": ""
+  },
+  {
+    "id": "sw037",
+    "category": "community",
+    "english": "We are going to church.",
+    "mien": ""
+  },
+  {
+    "id": "sw038",
+    "category": "community",
+    "english": "The church meeting is tonight.",
+    "mien": ""
+  },
+  {
+    "id": "sw039",
+    "category": "community",
+    "english": "Please come to the church event.",
+    "mien": ""
+  },
+  {
+    "id": "sw040",
+    "category": "community",
+    "english": "The community is helping this family.",
+    "mien": ""
+  },
+  {
+    "id": "sm001",
+    "category": "shopping",
+    "english": "I want to buy this.",
+    "mien": ""
+  },
+  {
+    "id": "sm002",
+    "category": "shopping",
+    "english": "I do not want to buy this.",
+    "mien": ""
+  },
+  {
+    "id": "sm003",
+    "category": "shopping",
+    "english": "How much is this?",
+    "mien": ""
+  },
+  {
+    "id": "sm004",
+    "category": "shopping",
+    "english": "It is too expensive.",
+    "mien": ""
+  },
+  {
+    "id": "sm005",
+    "category": "shopping",
+    "english": "It is cheap.",
+    "mien": ""
+  },
+  {
+    "id": "sm006",
+    "category": "shopping",
+    "english": "Do you have a smaller one?",
+    "mien": ""
+  },
+  {
+    "id": "sm007",
+    "category": "shopping",
+    "english": "Do you have a bigger one?",
+    "mien": ""
+  },
+  {
+    "id": "sm008",
+    "category": "shopping",
+    "english": "Do you have another one?",
+    "mien": ""
+  },
+  {
+    "id": "sm009",
+    "category": "shopping",
+    "english": "I need rice.",
+    "mien": ""
+  },
+  {
+    "id": "sm010",
+    "category": "shopping",
+    "english": "I need water.",
+    "mien": ""
+  },
+  {
+    "id": "sm011",
+    "category": "shopping",
+    "english": "I need medicine.",
+    "mien": ""
+  },
+  {
+    "id": "sm012",
+    "category": "shopping",
+    "english": "Please give me one.",
+    "mien": ""
+  },
+  {
+    "id": "sm013",
+    "category": "shopping",
+    "english": "Please give me two.",
+    "mien": ""
+  },
+  {
+    "id": "sm014",
+    "category": "shopping",
+    "english": "I want one bag of rice.",
+    "mien": ""
+  },
+  {
+    "id": "sm015",
+    "category": "shopping",
+    "english": "I want one bottle of water.",
+    "mien": ""
+  },
+  {
+    "id": "sm016",
+    "category": "shopping",
+    "english": "I want this one.",
+    "mien": ""
+  },
+  {
+    "id": "sm017",
+    "category": "shopping",
+    "english": "I do not want that one.",
+    "mien": ""
+  },
+  {
+    "id": "sm018",
+    "category": "shopping",
+    "english": "Where is the store?",
+    "mien": ""
+  },
+  {
+    "id": "sm019",
+    "category": "shopping",
+    "english": "I am going to the store.",
+    "mien": ""
+  },
+  {
+    "id": "sm020",
+    "category": "shopping",
+    "english": "I am at the store.",
+    "mien": ""
+  },
+  {
+    "id": "sm021",
+    "category": "shopping",
+    "english": "Please wait for me here.",
+    "mien": ""
+  },
+  {
+    "id": "sm022",
+    "category": "shopping",
+    "english": "I am paying now.",
+    "mien": ""
+  },
+  {
+    "id": "sm023",
+    "category": "shopping",
+    "english": "I do not have enough money.",
+    "mien": ""
+  },
+  {
+    "id": "sm024",
+    "category": "shopping",
+    "english": "I have enough money.",
+    "mien": ""
+  },
+  {
+    "id": "sm025",
+    "category": "shopping",
+    "english": "Please give me the receipt.",
+    "mien": ""
+  },
+  {
+    "id": "sm026",
+    "category": "shopping",
+    "english": "Please put it in a bag.",
+    "mien": ""
+  },
+  {
+    "id": "sm027",
+    "category": "shopping",
+    "english": "We are buying food.",
+    "mien": ""
+  },
+  {
+    "id": "sm028",
+    "category": "shopping",
+    "english": "We are buying clothes.",
+    "mien": ""
+  },
+  {
+    "id": "sm029",
+    "category": "shopping",
+    "english": "Please come with me to the store.",
+    "mien": ""
+  },
+  {
+    "id": "sm030",
+    "category": "shopping",
+    "english": "I will buy it tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "hs001",
+    "category": "emergency",
+    "english": "Help me.",
+    "mien": ""
+  },
+  {
+    "id": "hs002",
+    "category": "emergency",
+    "english": "Please help him.",
+    "mien": ""
+  },
+  {
+    "id": "hs003",
+    "category": "emergency",
+    "english": "Please help her.",
+    "mien": ""
+  },
+  {
+    "id": "hs004",
+    "category": "emergency",
+    "english": "Call for help.",
+    "mien": ""
+  },
+  {
+    "id": "hs005",
+    "category": "emergency",
+    "english": "Call my family.",
+    "mien": ""
+  },
+  {
+    "id": "hs006",
+    "category": "emergency",
+    "english": "Call the doctor now.",
+    "mien": ""
+  },
+  {
+    "id": "hs007",
+    "category": "emergency",
+    "english": "It is urgent.",
+    "mien": ""
+  },
+  {
+    "id": "hs008",
+    "category": "emergency",
+    "english": "We need to go now.",
+    "mien": ""
+  },
+  {
+    "id": "hs009",
+    "category": "emergency",
+    "english": "Please come quickly.",
+    "mien": ""
+  },
+  {
+    "id": "hs010",
+    "category": "emergency",
+    "english": "Please be careful.",
+    "mien": ""
+  },
+  {
+    "id": "hs011",
+    "category": "emergency",
+    "english": "Do not touch that.",
+    "mien": ""
+  },
+  {
+    "id": "hs012",
+    "category": "emergency",
+    "english": "Do not go there.",
+    "mien": ""
+  },
+  {
+    "id": "hs013",
+    "category": "emergency",
+    "english": "Stay here.",
+    "mien": ""
+  },
+  {
+    "id": "hs014",
+    "category": "emergency",
+    "english": "Stay with me.",
+    "mien": ""
+  },
+  {
+    "id": "hs015",
+    "category": "emergency",
+    "english": "Are you okay?",
+    "mien": ""
+  },
+  {
+    "id": "hs016",
+    "category": "emergency",
+    "english": "He is not breathing well.",
+    "mien": ""
+  },
+  {
+    "id": "hs017",
+    "category": "emergency",
+    "english": "She cannot stand up.",
+    "mien": ""
+  },
+  {
+    "id": "hs018",
+    "category": "emergency",
+    "english": "Please sit down here.",
+    "mien": ""
+  },
+  {
+    "id": "hs019",
+    "category": "emergency",
+    "english": "Please lie down here.",
+    "mien": ""
+  },
+  {
+    "id": "hs020",
+    "category": "emergency",
+    "english": "We are going to the hospital now.",
+    "mien": ""
+  },
+  {
+    "id": "cg001",
+    "category": "review",
+    "english": "I am hungry.",
+    "mien": ""
+  },
+  {
+    "id": "cg002",
+    "category": "review",
+    "english": "I am not hungry.",
+    "mien": ""
+  },
+  {
+    "id": "cg003",
+    "category": "review",
+    "english": "Are you hungry?",
+    "mien": ""
+  },
+  {
+    "id": "cg004",
+    "category": "review",
+    "english": "I am tired.",
+    "mien": ""
+  },
+  {
+    "id": "cg005",
+    "category": "review",
+    "english": "I am not tired.",
+    "mien": ""
+  },
+  {
+    "id": "cg006",
+    "category": "review",
+    "english": "Are you tired?",
+    "mien": ""
+  },
+  {
+    "id": "cg007",
+    "category": "review",
+    "english": "He is here.",
+    "mien": ""
+  },
+  {
+    "id": "cg008",
+    "category": "review",
+    "english": "He is not here.",
+    "mien": ""
+  },
+  {
+    "id": "cg009",
+    "category": "review",
+    "english": "Is he here?",
+    "mien": ""
+  },
+  {
+    "id": "cg010",
+    "category": "review",
+    "english": "She is at home.",
+    "mien": ""
+  },
+  {
+    "id": "cg011",
+    "category": "review",
+    "english": "She is not at home.",
+    "mien": ""
+  },
+  {
+    "id": "cg012",
+    "category": "review",
+    "english": "Is she at home?",
+    "mien": ""
+  },
+  {
+    "id": "cg013",
+    "category": "review",
+    "english": "I am eating rice.",
+    "mien": ""
+  },
+  {
+    "id": "cg014",
+    "category": "review",
+    "english": "I am not eating rice.",
+    "mien": ""
+  },
+  {
+    "id": "cg015",
+    "category": "review",
+    "english": "Are you eating rice?",
+    "mien": ""
+  },
+  {
+    "id": "cg016",
+    "category": "review",
+    "english": "I went home yesterday.",
+    "mien": ""
+  },
+  {
+    "id": "cg017",
+    "category": "review",
+    "english": "I did not go home yesterday.",
+    "mien": ""
+  },
+  {
+    "id": "cg018",
+    "category": "review",
+    "english": "Did you go home yesterday?",
+    "mien": ""
+  },
+  {
+    "id": "cg019",
+    "category": "review",
+    "english": "I will go tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "cg020",
+    "category": "review",
+    "english": "I will not go tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "cg021",
+    "category": "review",
+    "english": "Will you go tomorrow?",
+    "mien": ""
+  },
+  {
+    "id": "cg022",
+    "category": "review",
+    "english": "Come here.",
+    "mien": ""
+  },
+  {
+    "id": "cg023",
+    "category": "review",
+    "english": "Do not come here.",
+    "mien": ""
+  },
+  {
+    "id": "cg024",
+    "category": "review",
+    "english": "Will you come here?",
+    "mien": ""
+  },
+  {
+    "id": "cg025",
+    "category": "review",
+    "english": "Please call him.",
+    "mien": ""
+  },
+  {
+    "id": "cg026",
+    "category": "review",
+    "english": "Do not call him.",
+    "mien": ""
+  },
+  {
+    "id": "cg027",
+    "category": "review",
+    "english": "Will you call him?",
+    "mien": ""
+  },
+  {
+    "id": "cg028",
+    "category": "review",
+    "english": "This water is hot.",
+    "mien": ""
+  },
+  {
+    "id": "cg029",
+    "category": "review",
+    "english": "This water is not hot.",
+    "mien": ""
+  },
+  {
+    "id": "cg030",
+    "category": "review",
+    "english": "Is this water hot?",
+    "mien": ""
+  },
+  {
+    "id": "rv001",
+    "category": "review",
+    "english": "This is my uncle.",
+    "mien": ""
+  },
+  {
+    "id": "rv002",
+    "category": "review",
+    "english": "This is my aunt.",
+    "mien": ""
+  },
+  {
+    "id": "rv003",
+    "category": "review",
+    "english": "This is my cousin.",
+    "mien": ""
+  },
+  {
+    "id": "rv004",
+    "category": "review",
+    "english": "Please ask him.",
+    "mien": ""
+  },
+  {
+    "id": "rv005",
+    "category": "review",
+    "english": "Please tell him.",
+    "mien": ""
+  },
+  {
+    "id": "rv006",
+    "category": "review",
+    "english": "Please call him.",
+    "mien": ""
+  },
+  {
+    "id": "rv007",
+    "category": "review",
+    "english": "I am coming.",
+    "mien": ""
+  },
+  {
+    "id": "rv008",
+    "category": "review",
+    "english": "I am going.",
+    "mien": ""
+  },
+  {
+    "id": "rv009",
+    "category": "review",
+    "english": "Come here now.",
+    "mien": ""
+  },
+  {
+    "id": "rv010",
+    "category": "review",
+    "english": "Go there now.",
+    "mien": ""
+  },
+  {
+    "id": "rv011",
+    "category": "review",
+    "english": "I can go.",
+    "mien": ""
+  },
+  {
+    "id": "rv012",
+    "category": "review",
+    "english": "I cannot go.",
+    "mien": ""
+  },
+  {
+    "id": "rv013",
+    "category": "review",
+    "english": "I know him.",
+    "mien": ""
+  },
+  {
+    "id": "rv014",
+    "category": "review",
+    "english": "I do not know him.",
+    "mien": ""
+  },
+  {
+    "id": "rv015",
+    "category": "review",
+    "english": "He is right.",
+    "mien": ""
+  },
+  {
+    "id": "rv016",
+    "category": "review",
+    "english": "Turn right.",
+    "mien": ""
+  },
+  {
+    "id": "rv017",
+    "category": "review",
+    "english": "The light is on.",
+    "mien": ""
+  },
+  {
+    "id": "rv018",
+    "category": "review",
+    "english": "This bag is light.",
+    "mien": ""
+  },
+  {
+    "id": "rv019",
+    "category": "review",
+    "english": "I am cold.",
+    "mien": ""
+  },
+  {
+    "id": "rv020",
+    "category": "review",
+    "english": "This water is cold.",
+    "mien": ""
+  },
+  {
+    "id": "hb061",
+    "category": "health",
+    "english": "I have chest pain.",
+    "mien": ""
+  },
+  {
+    "id": "hb062",
+    "category": "health",
+    "english": "I have trouble breathing.",
+    "mien": ""
+  },
+  {
+    "id": "hb063",
+    "category": "health",
+    "english": "I feel short of breath.",
+    "mien": ""
+  },
+  {
+    "id": "hb064",
+    "category": "health",
+    "english": "I feel pressure in my chest.",
+    "mien": ""
+  },
+  {
+    "id": "hb065",
+    "category": "health",
+    "english": "My heart is beating fast.",
+    "mien": ""
+  },
+  {
+    "id": "hb066",
+    "category": "health",
+    "english": "I feel lightheaded.",
+    "mien": ""
+  },
+  {
+    "id": "hb067",
+    "category": "health",
+    "english": "I feel like I might faint.",
+    "mien": ""
+  },
+  {
+    "id": "hb068",
+    "category": "health",
+    "english": "I fainted.",
+    "mien": ""
+  },
+  {
+    "id": "hb069",
+    "category": "health",
+    "english": "I have a severe headache.",
+    "mien": ""
+  },
+  {
+    "id": "hb070",
+    "category": "health",
+    "english": "My vision is blurry.",
+    "mien": ""
+  },
+  {
+    "id": "hb071",
+    "category": "health",
+    "english": "I cannot see clearly.",
+    "mien": ""
+  },
+  {
+    "id": "hb072",
+    "category": "health",
+    "english": "My face feels numb.",
+    "mien": ""
+  },
+  {
+    "id": "hb073",
+    "category": "health",
+    "english": "My arm feels weak.",
+    "mien": ""
+  },
+  {
+    "id": "hb074",
+    "category": "health",
+    "english": "My leg feels weak.",
+    "mien": ""
+  },
+  {
+    "id": "hb075",
+    "category": "health",
+    "english": "I cannot move my arm well.",
+    "mien": ""
+  },
+  {
+    "id": "hb076",
+    "category": "health",
+    "english": "I cannot move my leg well.",
+    "mien": ""
+  },
+  {
+    "id": "hb077",
+    "category": "health",
+    "english": "I am having trouble speaking.",
+    "mien": ""
+  },
+  {
+    "id": "hb078",
+    "category": "health",
+    "english": "I am confused.",
+    "mien": ""
+  },
+  {
+    "id": "hb079",
+    "category": "health",
+    "english": "I have a cough.",
+    "mien": ""
+  },
+  {
+    "id": "hb080",
+    "category": "health",
+    "english": "I have been coughing for three days.",
+    "mien": ""
+  },
+  {
+    "id": "hb081",
+    "category": "health",
+    "english": "My throat is sore.",
+    "mien": ""
+  },
+  {
+    "id": "hb082",
+    "category": "health",
+    "english": "My nose is runny.",
+    "mien": ""
+  },
+  {
+    "id": "hb083",
+    "category": "health",
+    "english": "My nose is blocked.",
+    "mien": ""
+  },
+  {
+    "id": "hb084",
+    "category": "health",
+    "english": "I am sneezing.",
+    "mien": ""
+  },
+  {
+    "id": "hb085",
+    "category": "health",
+    "english": "I have nausea.",
+    "mien": ""
+  },
+  {
+    "id": "hb086",
+    "category": "health",
+    "english": "I am vomiting.",
+    "mien": ""
+  },
+  {
+    "id": "hb087",
+    "category": "health",
+    "english": "I have diarrhea.",
+    "mien": ""
+  },
+  {
+    "id": "hb088",
+    "category": "health",
+    "english": "I am constipated.",
+    "mien": ""
+  },
+  {
+    "id": "hb089",
+    "category": "health",
+    "english": "I have stomach cramps.",
+    "mien": ""
+  },
+  {
+    "id": "hb090",
+    "category": "health",
+    "english": "My stomach feels bloated.",
+    "mien": ""
+  },
+  {
+    "id": "hb091",
+    "category": "health",
+    "english": "I have pain when I swallow.",
+    "mien": ""
+  },
+  {
+    "id": "hb092",
+    "category": "health",
+    "english": "I have pain when I urinate.",
+    "mien": ""
+  },
+  {
+    "id": "hb093",
+    "category": "health",
+    "english": "I need to urinate often.",
+    "mien": ""
+  },
+  {
+    "id": "hb094",
+    "category": "health",
+    "english": "There is blood in my urine.",
+    "mien": ""
+  },
+  {
+    "id": "hb095",
+    "category": "health",
+    "english": "There is blood in my stool.",
+    "mien": ""
+  },
+  {
+    "id": "hb096",
+    "category": "health",
+    "english": "I have a rash.",
+    "mien": ""
+  },
+  {
+    "id": "hb097",
+    "category": "health",
+    "english": "My skin is itchy.",
+    "mien": ""
+  },
+  {
+    "id": "hb098",
+    "category": "health",
+    "english": "My face is swollen.",
+    "mien": ""
+  },
+  {
+    "id": "hb099",
+    "category": "health",
+    "english": "My lips are swollen.",
+    "mien": ""
+  },
+  {
+    "id": "hb100",
+    "category": "health",
+    "english": "My tongue is swollen.",
+    "mien": ""
+  },
+  {
+    "id": "hb101",
+    "category": "health",
+    "english": "I think I am having an allergic reaction.",
+    "mien": ""
+  },
+  {
+    "id": "hb102",
+    "category": "health",
+    "english": "I am allergic to this medicine.",
+    "mien": ""
+  },
+  {
+    "id": "hb103",
+    "category": "health",
+    "english": "I am allergic to penicillin.",
+    "mien": ""
+  },
+  {
+    "id": "hb104",
+    "category": "health",
+    "english": "I am allergic to this food.",
+    "mien": ""
+  },
+  {
+    "id": "hb105",
+    "category": "health",
+    "english": "This medicine gave me a rash before.",
+    "mien": ""
+  },
+  {
+    "id": "hb106",
+    "category": "health",
+    "english": "This medicine made me dizzy before.",
+    "mien": ""
+  },
+  {
+    "id": "hb107",
+    "category": "health",
+    "english": "I take medicine for blood pressure.",
+    "mien": ""
+  },
+  {
+    "id": "hb108",
+    "category": "health",
+    "english": "I take medicine for diabetes.",
+    "mien": ""
+  },
+  {
+    "id": "hb109",
+    "category": "health",
+    "english": "I take medicine every day.",
+    "mien": ""
+  },
+  {
+    "id": "hb110",
+    "category": "health",
+    "english": "I missed my medicine today.",
+    "mien": ""
+  },
+  {
+    "id": "hb111",
+    "category": "health",
+    "english": "I started this medicine yesterday.",
+    "mien": ""
+  },
+  {
+    "id": "hb112",
+    "category": "health",
+    "english": "This symptom started today.",
+    "mien": ""
+  },
+  {
+    "id": "hb113",
+    "category": "health",
+    "english": "This symptom started yesterday.",
+    "mien": ""
+  },
+  {
+    "id": "hb114",
+    "category": "health",
+    "english": "This started last night.",
+    "mien": ""
+  },
+  {
+    "id": "hb115",
+    "category": "health",
+    "english": "I have had this for two days.",
+    "mien": ""
+  },
+  {
+    "id": "hb116",
+    "category": "health",
+    "english": "I have had this for one week.",
+    "mien": ""
+  },
+  {
+    "id": "hb117",
+    "category": "health",
+    "english": "It is getting worse.",
+    "mien": ""
+  },
+  {
+    "id": "hb118",
+    "category": "health",
+    "english": "It is getting better.",
+    "mien": ""
+  },
+  {
+    "id": "hb119",
+    "category": "health",
+    "english": "The pain comes and goes.",
+    "mien": ""
+  },
+  {
+    "id": "hb120",
+    "category": "health",
+    "english": "The pain is constant.",
+    "mien": ""
+  },
+  {
+    "id": "hb121",
+    "category": "health",
+    "english": "The pain is mild.",
+    "mien": ""
+  },
+  {
+    "id": "hb122",
+    "category": "health",
+    "english": "The pain is moderate.",
+    "mien": ""
+  },
+  {
+    "id": "hb123",
+    "category": "health",
+    "english": "The pain is severe.",
+    "mien": ""
+  },
+  {
+    "id": "hb124",
+    "category": "health",
+    "english": "My pain level is eight out of ten.",
+    "mien": ""
+  },
+  {
+    "id": "hb125",
+    "category": "health",
+    "english": "Touching it makes it worse.",
+    "mien": ""
+  },
+  {
+    "id": "hb126",
+    "category": "health",
+    "english": "Walking makes it worse.",
+    "mien": ""
+  },
+  {
+    "id": "hb127",
+    "category": "health",
+    "english": "Eating makes it worse.",
+    "mien": ""
+  },
+  {
+    "id": "hb128",
+    "category": "health",
+    "english": "Resting makes it better.",
+    "mien": ""
+  },
+  {
+    "id": "hb129",
+    "category": "health",
+    "english": "The medicine did not help.",
+    "mien": ""
+  },
+  {
+    "id": "hb130",
+    "category": "health",
+    "english": "The medicine helped a little.",
+    "mien": ""
+  },
+  {
+    "id": "hb131",
+    "category": "health",
+    "english": "I might be pregnant.",
+    "mien": ""
+  },
+  {
+    "id": "hb132",
+    "category": "health",
+    "english": "I am pregnant.",
+    "mien": ""
+  },
+  {
+    "id": "hb133",
+    "category": "health",
+    "english": "I have lower belly pain.",
+    "mien": ""
+  },
+  {
+    "id": "hb134",
+    "category": "health",
+    "english": "I have vaginal bleeding.",
+    "mien": ""
+  },
+  {
+    "id": "hb135",
+    "category": "health",
+    "english": "I have missed my period.",
+    "mien": ""
+  },
+  {
+    "id": "hb136",
+    "category": "health",
+    "english": "My baby has a fever.",
+    "mien": ""
+  },
+  {
+    "id": "hb137",
+    "category": "health",
+    "english": "My child is vomiting.",
+    "mien": ""
+  },
+  {
+    "id": "hb138",
+    "category": "health",
+    "english": "My child is not eating.",
+    "mien": ""
+  },
+  {
+    "id": "hb139",
+    "category": "health",
+    "english": "My child is having trouble breathing.",
+    "mien": ""
+  },
+  {
+    "id": "hb140",
+    "category": "health",
+    "english": "My child needs to see a doctor.",
+    "mien": ""
+  },
+  {
+    "id": "rv021",
+    "category": "review",
+    "english": "This is my older brother.",
+    "mien": ""
+  },
+  {
+    "id": "rv022",
+    "category": "review",
+    "english": "This is my younger brother.",
+    "mien": ""
+  },
+  {
+    "id": "rv023",
+    "category": "review",
+    "english": "This is my older sister.",
+    "mien": ""
+  },
+  {
+    "id": "rv024",
+    "category": "review",
+    "english": "This is my younger sister.",
+    "mien": ""
+  },
+  {
+    "id": "rv025",
+    "category": "review",
+    "english": "He asked me.",
+    "mien": ""
+  },
+  {
+    "id": "rv026",
+    "category": "review",
+    "english": "I asked him.",
+    "mien": ""
+  },
+  {
+    "id": "rv027",
+    "category": "review",
+    "english": "He told me.",
+    "mien": ""
+  },
+  {
+    "id": "rv028",
+    "category": "review",
+    "english": "I told him.",
+    "mien": ""
+  },
+  {
+    "id": "rv029",
+    "category": "review",
+    "english": "He called me.",
+    "mien": ""
+  },
+  {
+    "id": "rv030",
+    "category": "review",
+    "english": "I called him.",
+    "mien": ""
+  },
+  {
+    "id": "rv031",
+    "category": "review",
+    "english": "Please say it again.",
+    "mien": ""
+  },
+  {
+    "id": "rv032",
+    "category": "review",
+    "english": "Please tell me again.",
+    "mien": ""
+  },
+  {
+    "id": "rv033",
+    "category": "review",
+    "english": "Please ask again.",
+    "mien": ""
+  },
+  {
+    "id": "rv034",
+    "category": "review",
+    "english": "I came here yesterday.",
+    "mien": ""
+  },
+  {
+    "id": "rv035",
+    "category": "review",
+    "english": "I went there yesterday.",
+    "mien": ""
+  },
+  {
+    "id": "rv036",
+    "category": "review",
+    "english": "I will come tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "rv037",
+    "category": "review",
+    "english": "I will go tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "rv038",
+    "category": "review",
+    "english": "Come with me.",
+    "mien": ""
+  },
+  {
+    "id": "rv039",
+    "category": "review",
+    "english": "Go with me.",
+    "mien": ""
+  },
+  {
+    "id": "rv040",
+    "category": "review",
+    "english": "Come back soon.",
+    "mien": ""
+  },
+  {
+    "id": "rv041",
+    "category": "review",
+    "english": "Go back soon.",
+    "mien": ""
+  },
+  {
+    "id": "rv042",
+    "category": "review",
+    "english": "Put it here.",
+    "mien": ""
+  },
+  {
+    "id": "rv043",
+    "category": "review",
+    "english": "Put it there.",
+    "mien": ""
+  },
+  {
+    "id": "rv044",
+    "category": "review",
+    "english": "Bring it here.",
+    "mien": ""
+  },
+  {
+    "id": "rv045",
+    "category": "review",
+    "english": "Take it there.",
+    "mien": ""
+  },
+  {
+    "id": "rv046",
+    "category": "review",
+    "english": "This one is good.",
+    "mien": ""
+  },
+  {
+    "id": "rv047",
+    "category": "review",
+    "english": "That one is good.",
+    "mien": ""
+  },
+  {
+    "id": "rv048",
+    "category": "review",
+    "english": "This one is not good.",
+    "mien": ""
+  },
+  {
+    "id": "rv049",
+    "category": "review",
+    "english": "That one is not good.",
+    "mien": ""
+  },
+  {
+    "id": "rv050",
+    "category": "review",
+    "english": "I know her.",
+    "mien": ""
+  },
+  {
+    "id": "rv051",
+    "category": "review",
+    "english": "I do not know her.",
+    "mien": ""
+  },
+  {
+    "id": "rv052",
+    "category": "review",
+    "english": "I know them.",
+    "mien": ""
+  },
+  {
+    "id": "rv053",
+    "category": "review",
+    "english": "I do not know them.",
+    "mien": ""
+  },
+  {
+    "id": "rv054",
+    "category": "review",
+    "english": "He can come.",
+    "mien": ""
+  },
+  {
+    "id": "rv055",
+    "category": "review",
+    "english": "He cannot come.",
+    "mien": ""
+  },
+  {
+    "id": "rv056",
+    "category": "review",
+    "english": "She can go.",
+    "mien": ""
+  },
+  {
+    "id": "rv057",
+    "category": "review",
+    "english": "She cannot go.",
+    "mien": ""
+  },
+  {
+    "id": "rv058",
+    "category": "review",
+    "english": "Open it.",
+    "mien": ""
+  },
+  {
+    "id": "rv059",
+    "category": "review",
+    "english": "Close it.",
+    "mien": ""
+  },
+  {
+    "id": "rv060",
+    "category": "review",
+    "english": "Turn it on.",
+    "mien": ""
+  },
+  {
+    "id": "rv061",
+    "category": "review",
+    "english": "Turn it off.",
+    "mien": ""
+  },
+  {
+    "id": "rv062",
+    "category": "review",
+    "english": "He is at home now.",
+    "mien": ""
+  },
+  {
+    "id": "rv063",
+    "category": "review",
+    "english": "He was at home yesterday.",
+    "mien": ""
+  },
+  {
+    "id": "rv064",
+    "category": "review",
+    "english": "He will be at home tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "rv065",
+    "category": "review",
+    "english": "She is working now.",
+    "mien": ""
+  },
+  {
+    "id": "rv066",
+    "category": "review",
+    "english": "She worked yesterday.",
+    "mien": ""
+  },
+  {
+    "id": "rv067",
+    "category": "review",
+    "english": "She will work tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "rv068",
+    "category": "review",
+    "english": "I am right.",
+    "mien": ""
+  },
+  {
+    "id": "rv069",
+    "category": "review",
+    "english": "The answer is right.",
+    "mien": ""
+  },
+  {
+    "id": "rv070",
+    "category": "review",
+    "english": "The right side hurts.",
+    "mien": ""
+  },
+  {
+    "id": "hs021",
+    "category": "emergency",
+    "english": "Call 911 now.",
+    "mien": ""
+  },
+  {
+    "id": "hs022",
+    "category": "emergency",
+    "english": "We need an ambulance.",
+    "mien": ""
+  },
+  {
+    "id": "hs023",
+    "category": "emergency",
+    "english": "He is unconscious.",
+    "mien": ""
+  },
+  {
+    "id": "hs024",
+    "category": "emergency",
+    "english": "She is unconscious.",
+    "mien": ""
+  },
+  {
+    "id": "hs025",
+    "category": "emergency",
+    "english": "He is not waking up.",
+    "mien": ""
+  },
+  {
+    "id": "hs026",
+    "category": "emergency",
+    "english": "She is not waking up.",
+    "mien": ""
+  },
+  {
+    "id": "hs027",
+    "category": "emergency",
+    "english": "He is having trouble breathing.",
+    "mien": ""
+  },
+  {
+    "id": "hs028",
+    "category": "emergency",
+    "english": "She is having trouble breathing.",
+    "mien": ""
+  },
+  {
+    "id": "hs029",
+    "category": "emergency",
+    "english": "He has chest pain.",
+    "mien": ""
+  },
+  {
+    "id": "hs030",
+    "category": "emergency",
+    "english": "She has chest pain.",
+    "mien": ""
+  },
+  {
+    "id": "hs031",
+    "category": "emergency",
+    "english": "He is bleeding a lot.",
+    "mien": ""
+  },
+  {
+    "id": "hs032",
+    "category": "emergency",
+    "english": "She is bleeding a lot.",
+    "mien": ""
+  },
+  {
+    "id": "hs033",
+    "category": "emergency",
+    "english": "Please stop the bleeding.",
+    "mien": ""
+  },
+  {
+    "id": "hs034",
+    "category": "emergency",
+    "english": "Press here.",
+    "mien": ""
+  },
+  {
+    "id": "hs035",
+    "category": "emergency",
+    "english": "Do not move him.",
+    "mien": ""
+  },
+  {
+    "id": "hs036",
+    "category": "emergency",
+    "english": "Do not move her.",
+    "mien": ""
+  },
+  {
+    "id": "hs037",
+    "category": "emergency",
+    "english": "He fell and hit his head.",
+    "mien": ""
+  },
+  {
+    "id": "hs038",
+    "category": "emergency",
+    "english": "She fell and hit her head.",
+    "mien": ""
+  },
+  {
+    "id": "hs039",
+    "category": "emergency",
+    "english": "He cannot move.",
+    "mien": ""
+  },
+  {
+    "id": "hs040",
+    "category": "emergency",
+    "english": "She cannot move.",
+    "mien": ""
+  },
+  {
+    "id": "hs041",
+    "category": "emergency",
+    "english": "He cannot speak clearly.",
+    "mien": ""
+  },
+  {
+    "id": "hs042",
+    "category": "emergency",
+    "english": "She cannot speak clearly.",
+    "mien": ""
+  },
+  {
+    "id": "hs043",
+    "category": "emergency",
+    "english": "One side of his face is drooping.",
+    "mien": ""
+  },
+  {
+    "id": "hs044",
+    "category": "emergency",
+    "english": "One side of her face is drooping.",
+    "mien": ""
+  },
+  {
+    "id": "hs045",
+    "category": "emergency",
+    "english": "He may be having a stroke.",
+    "mien": ""
+  },
+  {
+    "id": "hs046",
+    "category": "emergency",
+    "english": "She may be having a stroke.",
+    "mien": ""
+  },
+  {
+    "id": "hs047",
+    "category": "emergency",
+    "english": "He may be having a seizure.",
+    "mien": ""
+  },
+  {
+    "id": "hs048",
+    "category": "emergency",
+    "english": "She may be having a seizure.",
+    "mien": ""
+  },
+  {
+    "id": "hs049",
+    "category": "emergency",
+    "english": "Give him space.",
+    "mien": ""
+  },
+  {
+    "id": "hs050",
+    "category": "emergency",
+    "english": "Give her space.",
+    "mien": ""
+  },
+  {
+    "id": "hs051",
+    "category": "emergency",
+    "english": "He is choking.",
+    "mien": ""
+  },
+  {
+    "id": "hs052",
+    "category": "emergency",
+    "english": "She is choking.",
+    "mien": ""
+  },
+  {
+    "id": "hs053",
+    "category": "emergency",
+    "english": "He cannot breathe.",
+    "mien": ""
+  },
+  {
+    "id": "hs054",
+    "category": "emergency",
+    "english": "She cannot breathe.",
+    "mien": ""
+  },
+  {
+    "id": "hs055",
+    "category": "emergency",
+    "english": "His lips are turning blue.",
+    "mien": ""
+  },
+  {
+    "id": "hs056",
+    "category": "emergency",
+    "english": "Her lips are turning blue.",
+    "mien": ""
+  },
+  {
+    "id": "hs057",
+    "category": "emergency",
+    "english": "He may be having an allergic reaction.",
+    "mien": ""
+  },
+  {
+    "id": "hs058",
+    "category": "emergency",
+    "english": "She may be having an allergic reaction.",
+    "mien": ""
+  },
+  {
+    "id": "hs059",
+    "category": "emergency",
+    "english": "His face is swelling.",
+    "mien": ""
+  },
+  {
+    "id": "hs060",
+    "category": "emergency",
+    "english": "Her face is swelling.",
+    "mien": ""
+  },
+  {
+    "id": "hs061",
+    "category": "emergency",
+    "english": "He was burned.",
+    "mien": ""
+  },
+  {
+    "id": "hs062",
+    "category": "emergency",
+    "english": "She was burned.",
+    "mien": ""
+  },
+  {
+    "id": "hs063",
+    "category": "emergency",
+    "english": "Cool the burn with water.",
+    "mien": ""
+  },
+  {
+    "id": "hs064",
+    "category": "emergency",
+    "english": "Do not touch the fire.",
+    "mien": ""
+  },
+  {
+    "id": "hs065",
+    "category": "emergency",
+    "english": "Get out now.",
+    "mien": ""
+  },
+  {
+    "id": "hs066",
+    "category": "emergency",
+    "english": "There is a fire.",
+    "mien": ""
+  },
+  {
+    "id": "hs067",
+    "category": "emergency",
+    "english": "There is smoke.",
+    "mien": ""
+  },
+  {
+    "id": "hs068",
+    "category": "emergency",
+    "english": "Stay low.",
+    "mien": ""
+  },
+  {
+    "id": "hs069",
+    "category": "emergency",
+    "english": "Follow me now.",
+    "mien": ""
+  },
+  {
+    "id": "hs070",
+    "category": "emergency",
+    "english": "We are in danger.",
+    "mien": ""
+  },
+  {
+    "id": "hs071",
+    "category": "emergency",
+    "english": "My address is ___.",
+    "mien": ""
+  },
+  {
+    "id": "hs072",
+    "category": "emergency",
+    "english": "We are at ___.",
+    "mien": ""
+  },
+  {
+    "id": "hs073",
+    "category": "emergency",
+    "english": "We are in apartment ___.",
+    "mien": ""
+  },
+  {
+    "id": "hs074",
+    "category": "emergency",
+    "english": "We are on the ___ floor.",
+    "mien": ""
+  },
+  {
+    "id": "hs075",
+    "category": "emergency",
+    "english": "We are near ___.",
+    "mien": ""
+  },
+  {
+    "id": "hs076",
+    "category": "emergency",
+    "english": "Please send an ambulance.",
+    "mien": ""
+  },
+  {
+    "id": "hs077",
+    "category": "emergency",
+    "english": "Please send the police.",
+    "mien": ""
+  },
+  {
+    "id": "hs078",
+    "category": "emergency",
+    "english": "Please send fire fighters too.",
+    "mien": ""
+  },
+  {
+    "id": "hs079",
+    "category": "emergency",
+    "english": "My phone number is ___.",
+    "mien": ""
+  },
+  {
+    "id": "hs080",
+    "category": "emergency",
+    "english": "Please call me back at this number.",
+    "mien": ""
+  },
+  {
+    "id": "hs081",
+    "category": "emergency",
+    "english": "The emergency is happening now.",
+    "mien": ""
+  },
+  {
+    "id": "hs082",
+    "category": "emergency",
+    "english": "It happened a few minutes ago.",
+    "mien": ""
+  },
+  {
+    "id": "hs083",
+    "category": "emergency",
+    "english": "It happened just now.",
+    "mien": ""
+  },
+  {
+    "id": "hs084",
+    "category": "emergency",
+    "english": "There is one injured person.",
+    "mien": ""
+  },
+  {
+    "id": "hs085",
+    "category": "emergency",
+    "english": "There are two injured people.",
+    "mien": ""
+  },
+  {
+    "id": "hs086",
+    "category": "emergency",
+    "english": "There are several injured people.",
+    "mien": ""
+  },
+  {
+    "id": "hs087",
+    "category": "emergency",
+    "english": "He is conscious.",
+    "mien": ""
+  },
+  {
+    "id": "hs088",
+    "category": "emergency",
+    "english": "She is conscious.",
+    "mien": ""
+  },
+  {
+    "id": "hs089",
+    "category": "emergency",
+    "english": "He is not conscious.",
+    "mien": ""
+  },
+  {
+    "id": "hs090",
+    "category": "emergency",
+    "english": "She is not conscious.",
+    "mien": ""
+  },
+  {
+    "id": "hs091",
+    "category": "emergency",
+    "english": "He is breathing.",
+    "mien": ""
+  },
+  {
+    "id": "hs092",
+    "category": "emergency",
+    "english": "She is breathing.",
+    "mien": ""
+  },
+  {
+    "id": "hs093",
+    "category": "emergency",
+    "english": "He is not breathing.",
+    "mien": ""
+  },
+  {
+    "id": "hs094",
+    "category": "emergency",
+    "english": "She is not breathing.",
+    "mien": ""
+  },
+  {
+    "id": "hs095",
+    "category": "emergency",
+    "english": "He is only gasping.",
+    "mien": ""
+  },
+  {
+    "id": "hs096",
+    "category": "emergency",
+    "english": "She is only gasping.",
+    "mien": ""
+  },
+  {
+    "id": "hs097",
+    "category": "emergency",
+    "english": "The bleeding is severe.",
+    "mien": ""
+  },
+  {
+    "id": "hs098",
+    "category": "emergency",
+    "english": "The bleeding will not stop.",
+    "mien": ""
+  },
+  {
+    "id": "hs099",
+    "category": "emergency",
+    "english": "He was stabbed.",
+    "mien": ""
+  },
+  {
+    "id": "hs100",
+    "category": "emergency",
+    "english": "She was stabbed.",
+    "mien": ""
+  },
+  {
+    "id": "hs101",
+    "category": "emergency",
+    "english": "He was shot.",
+    "mien": ""
+  },
+  {
+    "id": "hs102",
+    "category": "emergency",
+    "english": "She was shot.",
+    "mien": ""
+  },
+  {
+    "id": "hs103",
+    "category": "emergency",
+    "english": "Someone has a weapon.",
+    "mien": ""
+  },
+  {
+    "id": "hs104",
+    "category": "emergency",
+    "english": "He has a gun.",
+    "mien": ""
+  },
+  {
+    "id": "hs105",
+    "category": "emergency",
+    "english": "She has a gun.",
+    "mien": ""
+  },
+  {
+    "id": "hs106",
+    "category": "emergency",
+    "english": "He has a knife.",
+    "mien": ""
+  },
+  {
+    "id": "hs107",
+    "category": "emergency",
+    "english": "She has a knife.",
+    "mien": ""
+  },
+  {
+    "id": "hs108",
+    "category": "emergency",
+    "english": "I heard gunshots.",
+    "mien": ""
+  },
+  {
+    "id": "hs109",
+    "category": "emergency",
+    "english": "I heard screaming.",
+    "mien": ""
+  },
+  {
+    "id": "hs110",
+    "category": "emergency",
+    "english": "There is a fight.",
+    "mien": ""
+  },
+  {
+    "id": "hs111",
+    "category": "emergency",
+    "english": "It is a physical fight.",
+    "mien": ""
+  },
+  {
+    "id": "hs112",
+    "category": "emergency",
+    "english": "The fight is still happening.",
+    "mien": ""
+  },
+  {
+    "id": "hs113",
+    "category": "emergency",
+    "english": "The suspect is still here.",
+    "mien": ""
+  },
+  {
+    "id": "hs114",
+    "category": "emergency",
+    "english": "The suspect ran away.",
+    "mien": ""
+  },
+  {
+    "id": "hs115",
+    "category": "emergency",
+    "english": "The suspect went north.",
+    "mien": ""
+  },
+  {
+    "id": "hs116",
+    "category": "emergency",
+    "english": "The suspect went south.",
+    "mien": ""
+  },
+  {
+    "id": "hs117",
+    "category": "emergency",
+    "english": "The suspect went east.",
+    "mien": ""
+  },
+  {
+    "id": "hs118",
+    "category": "emergency",
+    "english": "The suspect went west.",
+    "mien": ""
+  },
+  {
+    "id": "hs119",
+    "category": "emergency",
+    "english": "The suspect left in a car.",
+    "mien": ""
+  },
+  {
+    "id": "hs120",
+    "category": "emergency",
+    "english": "The car is a black sedan.",
+    "mien": ""
+  },
+  {
+    "id": "hs121",
+    "category": "emergency",
+    "english": "The car is a white SUV.",
+    "mien": ""
+  },
+  {
+    "id": "hs122",
+    "category": "emergency",
+    "english": "The license plate is ___.",
+    "mien": ""
+  },
+  {
+    "id": "hs123",
+    "category": "emergency",
+    "english": "The suspect is wearing a black shirt.",
+    "mien": ""
+  },
+  {
+    "id": "hs124",
+    "category": "emergency",
+    "english": "The suspect is wearing a red jacket.",
+    "mien": ""
+  },
+  {
+    "id": "hs125",
+    "category": "emergency",
+    "english": "The suspect is a tall man.",
+    "mien": ""
+  },
+  {
+    "id": "hs126",
+    "category": "emergency",
+    "english": "The suspect is a short woman.",
+    "mien": ""
+  },
+  {
+    "id": "hs127",
+    "category": "emergency",
+    "english": "The suspect has facial hair.",
+    "mien": ""
+  },
+  {
+    "id": "hs128",
+    "category": "emergency",
+    "english": "The suspect has tattoos.",
+    "mien": ""
+  },
+  {
+    "id": "hs129",
+    "category": "emergency",
+    "english": "I know the suspect.",
+    "mien": ""
+  },
+  {
+    "id": "hs130",
+    "category": "emergency",
+    "english": "I do not know the suspect.",
+    "mien": ""
+  },
+  {
+    "id": "hs131",
+    "category": "emergency",
+    "english": "The suspect is my partner.",
+    "mien": ""
+  },
+  {
+    "id": "hs132",
+    "category": "emergency",
+    "english": "The suspect is my family member.",
+    "mien": ""
+  },
+  {
+    "id": "hs133",
+    "category": "emergency",
+    "english": "He is threatening me.",
+    "mien": ""
+  },
+  {
+    "id": "hs134",
+    "category": "emergency",
+    "english": "She is threatening me.",
+    "mien": ""
+  },
+  {
+    "id": "hs135",
+    "category": "emergency",
+    "english": "He hit me.",
+    "mien": ""
+  },
+  {
+    "id": "hs136",
+    "category": "emergency",
+    "english": "She hit me.",
+    "mien": ""
+  },
+  {
+    "id": "hs137",
+    "category": "emergency",
+    "english": "He is breaking the door.",
+    "mien": ""
+  },
+  {
+    "id": "hs138",
+    "category": "emergency",
+    "english": "She is trying to get inside.",
+    "mien": ""
+  },
+  {
+    "id": "hs139",
+    "category": "emergency",
+    "english": "I am hiding right now.",
+    "mien": ""
+  },
+  {
+    "id": "hs140",
+    "category": "emergency",
+    "english": "Please do not tell him I called.",
+    "mien": ""
+  },
+  {
+    "id": "hs141",
+    "category": "emergency",
+    "english": "Please do not tell her I called.",
+    "mien": ""
+  },
+  {
+    "id": "hs142",
+    "category": "emergency",
+    "english": "The road is blocked.",
+    "mien": ""
+  },
+  {
+    "id": "hs143",
+    "category": "emergency",
+    "english": "There was a car crash.",
+    "mien": ""
+  },
+  {
+    "id": "hs144",
+    "category": "emergency",
+    "english": "Two cars crashed.",
+    "mien": ""
+  },
+  {
+    "id": "hs145",
+    "category": "emergency",
+    "english": "Someone is trapped in the car.",
+    "mien": ""
+  },
+  {
+    "id": "hs146",
+    "category": "emergency",
+    "english": "There is fuel leaking.",
+    "mien": ""
+  },
+  {
+    "id": "hs147",
+    "category": "emergency",
+    "english": "The car might catch fire.",
+    "mien": ""
+  },
+  {
+    "id": "hs148",
+    "category": "emergency",
+    "english": "Please hurry.",
+    "mien": ""
+  },
+  {
+    "id": "hs149",
+    "category": "emergency",
+    "english": "I will stay on the line.",
+    "mien": ""
+  },
+  {
+    "id": "hs150",
+    "category": "emergency",
+    "english": "Please tell me what to do now.",
+    "mien": ""
+  },
+  {
+    "id": "st001",
+    "category": "conversation",
+    "english": "How are you today?",
+    "mien": ""
+  },
+  {
+    "id": "st002",
+    "category": "conversation",
+    "english": "I am doing well today.",
+    "mien": ""
+  },
+  {
+    "id": "st003",
+    "category": "conversation",
+    "english": "I am doing okay.",
+    "mien": ""
+  },
+  {
+    "id": "st004",
+    "category": "conversation",
+    "english": "I am a little tired today.",
+    "mien": ""
+  },
+  {
+    "id": "st005",
+    "category": "conversation",
+    "english": "How is your family?",
+    "mien": ""
+  },
+  {
+    "id": "st006",
+    "category": "conversation",
+    "english": "My family is doing well.",
+    "mien": ""
+  },
+  {
+    "id": "st007",
+    "category": "conversation",
+    "english": "How have you been?",
+    "mien": ""
+  },
+  {
+    "id": "st008",
+    "category": "conversation",
+    "english": "I have been busy lately.",
+    "mien": ""
+  },
+  {
+    "id": "st009",
+    "category": "conversation",
+    "english": "I have been resting at home.",
+    "mien": ""
+  },
+  {
+    "id": "st010",
+    "category": "conversation",
+    "english": "What are you doing today?",
+    "mien": ""
+  },
+  {
+    "id": "st011",
+    "category": "conversation",
+    "english": "I am staying home today.",
+    "mien": ""
+  },
+  {
+    "id": "st012",
+    "category": "conversation",
+    "english": "I am going out later.",
+    "mien": ""
+  },
+  {
+    "id": "st013",
+    "category": "conversation",
+    "english": "Are you busy today?",
+    "mien": ""
+  },
+  {
+    "id": "st014",
+    "category": "conversation",
+    "english": "Yes, I am busy today.",
+    "mien": ""
+  },
+  {
+    "id": "st015",
+    "category": "conversation",
+    "english": "No, I am free today.",
+    "mien": ""
+  },
+  {
+    "id": "st016",
+    "category": "conversation",
+    "english": "Where are you going today?",
+    "mien": ""
+  },
+  {
+    "id": "st017",
+    "category": "conversation",
+    "english": "I am going to the store.",
+    "mien": ""
+  },
+  {
+    "id": "st018",
+    "category": "conversation",
+    "english": "I am going to visit family.",
+    "mien": ""
+  },
+  {
+    "id": "st019",
+    "category": "conversation",
+    "english": "What did you do yesterday?",
+    "mien": ""
+  },
+  {
+    "id": "st020",
+    "category": "conversation",
+    "english": "I stayed home yesterday.",
+    "mien": ""
+  },
+  {
+    "id": "st021",
+    "category": "conversation",
+    "english": "I visited my family yesterday.",
+    "mien": ""
+  },
+  {
+    "id": "st022",
+    "category": "conversation",
+    "english": "What will you do tomorrow?",
+    "mien": ""
+  },
+  {
+    "id": "st023",
+    "category": "conversation",
+    "english": "I will go to work tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "st024",
+    "category": "conversation",
+    "english": "I will stay home tomorrow.",
+    "mien": ""
+  },
+  {
+    "id": "st025",
+    "category": "conversation",
+    "english": "How is the weather today?",
+    "mien": ""
+  },
+  {
+    "id": "st026",
+    "category": "conversation",
+    "english": "The weather is nice today.",
+    "mien": ""
+  },
+  {
+    "id": "st027",
+    "category": "conversation",
+    "english": "It is hot today.",
+    "mien": ""
+  },
+  {
+    "id": "st028",
+    "category": "conversation",
+    "english": "It is cold today.",
+    "mien": ""
+  },
+  {
+    "id": "st029",
+    "category": "conversation",
+    "english": "It might rain today.",
+    "mien": ""
+  },
+  {
+    "id": "st030",
+    "category": "conversation",
+    "english": "Do you like this weather?",
+    "mien": ""
+  },
+  {
+    "id": "st031",
+    "category": "conversation",
+    "english": "Yes, I like this weather.",
+    "mien": ""
+  },
+  {
+    "id": "st032",
+    "category": "conversation",
+    "english": "No, I do not like this weather.",
+    "mien": ""
+  },
+  {
+    "id": "st033",
+    "category": "conversation",
+    "english": "What do you like to eat?",
+    "mien": ""
+  },
+  {
+    "id": "st034",
+    "category": "conversation",
+    "english": "I like to eat rice.",
+    "mien": ""
+  },
+  {
+    "id": "st035",
+    "category": "conversation",
+    "english": "I like vegetables.",
+    "mien": ""
+  },
+  {
+    "id": "st036",
+    "category": "conversation",
+    "english": "Do you want to eat with us?",
+    "mien": ""
+  },
+  {
+    "id": "st037",
+    "category": "conversation",
+    "english": "Yes, I would like to eat with you.",
+    "mien": ""
+  },
+  {
+    "id": "st038",
+    "category": "conversation",
+    "english": "No, I already ate.",
+    "mien": ""
+  },
+  {
+    "id": "st039",
+    "category": "conversation",
+    "english": "What are your plans this week?",
+    "mien": ""
+  },
+  {
+    "id": "st040",
+    "category": "conversation",
+    "english": "I do not have many plans this week.",
+    "mien": ""
+  },
+  {
+    "id": "st041",
+    "category": "conversation",
+    "english": "I will be busy this week.",
+    "mien": ""
+  },
+  {
+    "id": "st042",
+    "category": "conversation",
+    "english": "Have you been working lately?",
+    "mien": ""
+  },
+  {
+    "id": "st043",
+    "category": "conversation",
+    "english": "Yes, I have been working a lot.",
+    "mien": ""
+  },
+  {
+    "id": "st044",
+    "category": "conversation",
+    "english": "No, I have been at home lately.",
+    "mien": ""
+  },
+  {
+    "id": "st045",
+    "category": "conversation",
+    "english": "How is school going?",
+    "mien": ""
+  },
+  {
+    "id": "st046",
+    "category": "conversation",
+    "english": "School is going well.",
+    "mien": ""
+  },
+  {
+    "id": "st047",
+    "category": "conversation",
+    "english": "It is good to talk with you.",
+    "mien": ""
+  },
+  {
+    "id": "st048",
+    "category": "conversation",
+    "english": "It has been a long time.",
+    "mien": ""
+  },
+  {
+    "id": "st049",
+    "category": "conversation",
+    "english": "I am happy to see you again.",
+    "mien": ""
+  },
+  {
+    "id": "st050",
+    "category": "conversation",
+    "english": "Let us talk again soon.",
+    "mien": ""
+  },
+  {
+    "id": "st051",
+    "category": "conversation",
+    "english": "Hello, how are you today?",
+    "mien": ""
+  },
+  {
+    "id": "st052",
+    "category": "conversation",
+    "english": "I am doing well today.",
+    "mien": ""
+  },
+  {
+    "id": "st053",
+    "category": "conversation",
+    "english": "That is good to hear.",
+    "mien": ""
+  },
+  {
+    "id": "st054",
+    "category": "conversation",
+    "english": "How is your family doing?",
+    "mien": ""
+  },
+  {
+    "id": "st055",
+    "category": "conversation",
+    "english": "My family is doing well too.",
+    "mien": ""
+  },
+  {
+    "id": "st056",
+    "category": "conversation",
+    "english": "What are you doing today?",
+    "mien": ""
+  },
+  {
+    "id": "st057",
+    "category": "conversation",
+    "english": "I am staying home today.",
+    "mien": ""
+  },
+  {
+    "id": "st058",
+    "category": "conversation",
+    "english": "Are you busy at home?",
+    "mien": ""
+  },
+  {
+    "id": "st059",
+    "category": "conversation",
+    "english": "No, I am not very busy.",
+    "mien": ""
+  },
+  {
+    "id": "st060",
+    "category": "conversation",
+    "english": "That sounds nice.",
+    "mien": ""
+  },
+  {
+    "id": "st061",
+    "category": "conversation",
+    "english": "Where are you going?",
+    "mien": ""
+  },
+  {
+    "id": "st062",
+    "category": "conversation",
+    "english": "I am going to the store.",
+    "mien": ""
+  },
+  {
+    "id": "st063",
+    "category": "conversation",
+    "english": "What do you need from the store?",
+    "mien": ""
+  },
+  {
+    "id": "st064",
+    "category": "conversation",
+    "english": "I need rice and water.",
+    "mien": ""
+  },
+  {
+    "id": "st065",
+    "category": "conversation",
+    "english": "Please be careful on the way.",
+    "mien": ""
+  },
+  {
+    "id": "st066",
+    "category": "conversation",
+    "english": "How is the weather today?",
+    "mien": ""
+  },
+  {
+    "id": "st201",
+    "category": "home",
+    "english": "The phone is on the table in the living room.",
+    "mien": ""
+  },
+  {
+    "id": "st202",
+    "category": "home",
+    "english": "My bag and shoes are near the front door.",
+    "mien": ""
+  },
+  {
+    "id": "st203",
+    "category": "home",
+    "english": "The rice pot is in the kitchen.",
+    "mien": ""
+  },
+  {
+    "id": "st204",
+    "category": "home",
+    "english": "The bowl, spoon, and chopsticks are on the table.",
+    "mien": ""
+  },
+  {
+    "id": "st205",
+    "category": "home",
+    "english": "My jacket is on the chair in my room.",
+    "mien": ""
+  },
+  {
+    "id": "st206",
+    "category": "home",
+    "english": "The window and door are open.",
+    "mien": ""
+  },
+  {
+    "id": "st207",
+    "category": "home",
+    "english": "The lamp is next to the bed.",
+    "mien": ""
+  },
+  {
+    "id": "st208",
+    "category": "home",
+    "english": "The blanket and pillow are on the bed.",
+    "mien": ""
+  },
+  {
+    "id": "st209",
+    "category": "home",
+    "english": "The soap and towel are in the bathroom.",
+    "mien": ""
+  },
+  {
+    "id": "st210",
+    "category": "home",
+    "english": "The clothes are in the washing machine.",
+    "mien": ""
+  },
+  {
+    "id": "st211",
+    "category": "home",
+    "english": "The clean clothes are in the basket.",
+    "mien": ""
+  },
+  {
+    "id": "st212",
+    "category": "home",
+    "english": "The broom and mop are behind the door.",
+    "mien": ""
+  },
+  {
+    "id": "st213",
+    "category": "home",
+    "english": "The keys are in my bag.",
+    "mien": ""
+  },
+  {
+    "id": "st214",
+    "category": "home",
+    "english": "The water bottle is in the car.",
+    "mien": ""
+  },
+  {
+    "id": "st215",
+    "category": "home",
+    "english": "My wallet is in my jacket pocket.",
+    "mien": ""
+  },
+  {
+    "id": "st216",
+    "category": "home",
+    "english": "The vegetables and meat are in the refrigerator.",
+    "mien": ""
+  },
+  {
+    "id": "st217",
+    "category": "home",
+    "english": "The tea, sugar, and cups are on the shelf.",
+    "mien": ""
+  },
+  {
+    "id": "st218",
+    "category": "home",
+    "english": "The medicine is in the kitchen cabinet.",
+    "mien": ""
+  },
+  {
+    "id": "st219",
+    "category": "home",
+    "english": "The baby is sleeping in the bedroom.",
+    "mien": ""
+  },
+  {
+    "id": "st220",
+    "category": "home",
+    "english": "My mother is in the kitchen and my father is in the yard.",
+    "mien": ""
+  },
+  {
+    "id": "st221",
+    "category": "home",
+    "english": "My brother is in the car with my uncle.",
+    "mien": ""
+  },
+  {
+    "id": "st222",
+    "category": "home",
+    "english": "My sister and cousin are at the store.",
+    "mien": ""
+  },
+  {
+    "id": "st223",
+    "category": "home",
+    "english": "My grandmother is sitting on the porch.",
+    "mien": ""
+  },
+  {
+    "id": "st224",
+    "category": "home",
+    "english": "My grandfather is resting in the living room.",
+    "mien": ""
+  },
+  {
+    "id": "st225",
+    "category": "home",
+    "english": "The children are playing in the yard.",
+    "mien": ""
+  },
+  {
+    "id": "st226",
+    "category": "home",
+    "english": "The teacher and student are in the classroom.",
+    "mien": ""
+  },
+  {
+    "id": "st227",
+    "category": "home",
+    "english": "The nurse is at the clinic with the patient.",
+    "mien": ""
+  },
+  {
+    "id": "st228",
+    "category": "home",
+    "english": "The doctor is in the hospital room.",
+    "mien": ""
+  },
+  {
+    "id": "st229",
+    "category": "home",
+    "english": "The pastor is at the church with the family.",
+    "mien": ""
+  },
+  {
+    "id": "st230",
+    "category": "home",
+    "english": "The community meeting is at the center tonight.",
+    "mien": ""
+  },
+  {
+    "id": "st231",
+    "category": "home",
+    "english": "The bus stop is near the school.",
+    "mien": ""
+  },
+  {
+    "id": "st232",
+    "category": "home",
+    "english": "The road to the store is next to the church.",
+    "mien": ""
+  },
+  {
+    "id": "st233",
+    "category": "home",
+    "english": "The park is across from the library.",
+    "mien": ""
+  },
+  {
+    "id": "st234",
+    "category": "home",
+    "english": "The market is near the gas station.",
+    "mien": ""
+  },
+  {
+    "id": "st235",
+    "category": "home",
+    "english": "The car, truck, and bicycle are outside the house.",
+    "mien": ""
+  },
+  {
+    "id": "st236",
+    "category": "home",
+    "english": "The bag of rice is in the back seat of the car.",
+    "mien": ""
+  },
+  {
+    "id": "st237",
+    "category": "home",
+    "english": "The groceries are in the kitchen by the sink.",
+    "mien": ""
+  },
+  {
+    "id": "st238",
+    "category": "home",
+    "english": "The fruit and bread are on the counter.",
+    "mien": ""
+  },
+  {
+    "id": "st239",
+    "category": "home",
+    "english": "The calendar is on the wall near the clock.",
+    "mien": ""
+  },
+  {
+    "id": "st240",
+    "category": "home",
+    "english": "The family photo is on the shelf.",
+    "mien": ""
+  },
+  {
+    "id": "st241",
+    "category": "home",
+    "english": "The notebook and pen are in my backpack.",
+    "mien": ""
+  },
+  {
+    "id": "st242",
+    "category": "home",
+    "english": "The homework is on the desk in the bedroom.",
+    "mien": ""
+  },
+  {
+    "id": "st243",
+    "category": "home",
+    "english": "The meeting paper is in my folder.",
+    "mien": ""
+  },
+  {
+    "id": "st244",
+    "category": "home",
+    "english": "The phone charger is beside the bed.",
+    "mien": ""
+  },
+  {
+    "id": "st245",
+    "category": "home",
+    "english": "The baby bottle is on the kitchen table.",
+    "mien": ""
+  },
+  {
+    "id": "st246",
+    "category": "home",
+    "english": "The medicine bottle is in the bathroom drawer.",
+    "mien": ""
+  },
+  {
+    "id": "st247",
+    "category": "home",
+    "english": "The trash can is outside near the fence.",
+    "mien": ""
+  },
+  {
+    "id": "st248",
+    "category": "home",
+    "english": "The dog is in the yard and the cat is under the chair.",
+    "mien": ""
+  },
+  {
+    "id": "st249",
+    "category": "home",
+    "english": "The rain and wind are strong today.",
+    "mien": ""
+  },
+  {
+    "id": "st250",
+    "category": "home",
+    "english": "The family car is parked in front of the house.",
+    "mien": ""
+  },
+  {
+    "id": "ag001",
+    "category": "food",
+    "english": "I need a bag of jasmine rice.",
+    "mien": ""
+  },
+  {
+    "id": "ag002",
+    "category": "food",
+    "english": "I need sticky rice.",
+    "mien": ""
+  },
+  {
+    "id": "ag003",
+    "category": "food",
+    "english": "Please buy rice noodles.",
+    "mien": ""
+  },
+  {
+    "id": "ag004",
+    "category": "food",
+    "english": "Please buy egg noodles.",
+    "mien": ""
+  },
+  {
+    "id": "ag005",
+    "category": "food",
+    "english": "I need soy sauce for cooking.",
+    "mien": ""
+  },
+  {
+    "id": "ag006",
+    "category": "food",
+    "english": "I need fish sauce.",
+    "mien": ""
+  },
+  {
+    "id": "ag007",
+    "category": "food",
+    "english": "I need oyster sauce.",
+    "mien": ""
+  },
+  {
+    "id": "ag008",
+    "category": "food",
+    "english": "Please buy sesame oil.",
+    "mien": ""
+  },
+  {
+    "id": "ag009",
+    "category": "food",
+    "english": "Please buy chili oil.",
+    "mien": ""
+  },
+  {
+    "id": "ag010",
+    "category": "food",
+    "english": "I need cooking oil.",
+    "mien": ""
+  },
+  {
+    "id": "ag011",
+    "category": "food",
+    "english": "Please get tofu.",
+    "mien": ""
+  },
+  {
+    "id": "ag012",
+    "category": "food",
+    "english": "Please get eggs.",
+    "mien": ""
+  },
+  {
+    "id": "ag013",
+    "category": "food",
+    "english": "Please buy bok choy.",
+    "mien": ""
+  },
+  {
+    "id": "ag014",
+    "category": "food",
+    "english": "Please buy napa cabbage.",
+    "mien": ""
+  },
+  {
+    "id": "ag015",
+    "category": "food",
+    "english": "Please buy green onions.",
+    "mien": ""
+  },
+  {
+    "id": "ag016",
+    "category": "food",
+    "english": "Please buy cilantro.",
+    "mien": ""
+  },
+  {
+    "id": "ag017",
+    "category": "food",
+    "english": "I need garlic and ginger.",
+    "mien": ""
+  },
+  {
+    "id": "ag018",
+    "category": "food",
+    "english": "Please buy onions.",
+    "mien": ""
+  },
+  {
+    "id": "ag019",
+    "category": "food",
+    "english": "Please buy fresh chilies.",
+    "mien": ""
+  },
+  {
+    "id": "ag020",
+    "category": "food",
+    "english": "Please buy mushrooms.",
+    "mien": ""
+  },
+  {
+    "id": "ag021",
+    "category": "food",
+    "english": "Please buy bean sprouts.",
+    "mien": ""
+  },
+  {
+    "id": "ag022",
+    "category": "food",
+    "english": "Please buy daikon radish.",
+    "mien": ""
+  },
+  {
+    "id": "ag023",
+    "category": "food",
+    "english": "Please buy bitter melon.",
+    "mien": ""
+  },
+  {
+    "id": "ag024",
+    "category": "food",
+    "english": "I need lemongrass.",
+    "mien": ""
+  },
+  {
+    "id": "ag025",
+    "category": "food",
+    "english": "I need coconut milk.",
+    "mien": ""
+  },
+  {
+    "id": "ag026",
+    "category": "food",
+    "english": "Please buy curry paste.",
+    "mien": ""
+  },
+  {
+    "id": "ag027",
+    "category": "food",
+    "english": "Please get frozen dumplings.",
+    "mien": ""
+  },
+  {
+    "id": "ag028",
+    "category": "food",
+    "english": "Please get shrimp.",
+    "mien": ""
+  },
+  {
+    "id": "ag029",
+    "category": "food",
+    "english": "Please get pork belly.",
+    "mien": ""
+  },
+  {
+    "id": "ag030",
+    "category": "food",
+    "english": "Please get chicken thighs.",
+    "mien": ""
+  },
+  {
+    "id": "ag031",
+    "category": "food",
+    "english": "Please buy kimchi.",
+    "mien": ""
+  },
+  {
+    "id": "ag032",
+    "category": "food",
+    "english": "Please buy dried seaweed.",
+    "mien": ""
+  },
+  {
+    "id": "ag033",
+    "category": "food",
+    "english": "I need miso paste.",
+    "mien": ""
+  },
+  {
+    "id": "ag034",
+    "category": "food",
+    "english": "Please buy jasmine tea.",
+    "mien": ""
+  },
+  {
+    "id": "ag035",
+    "category": "food",
+    "english": "Please buy tofu skin.",
+    "mien": ""
+  },
+  {
+    "id": "ag036",
+    "category": "food",
+    "english": "Please buy taro.",
+    "mien": ""
+  },
+  {
+    "id": "ag037",
+    "category": "food",
+    "english": "Please buy mung beans.",
+    "mien": ""
+  },
+  {
+    "id": "ag038",
+    "category": "food",
+    "english": "Please buy sticky rice flour.",
+    "mien": ""
+  },
+  {
+    "id": "ag039",
+    "category": "food",
+    "english": "We need ingredients for soup.",
+    "mien": ""
+  },
+  {
+    "id": "ag040",
+    "category": "food",
+    "english": "We need ingredients for noodles.",
+    "mien": ""
+  },
+  {
+    "id": "hm001",
+    "category": "food",
+    "english": "Please buy sticky rice.",
+    "mien": ""
+  },
+  {
+    "id": "hm002",
+    "category": "food",
+    "english": "Please buy black rice for purple sticky rice.",
+    "mien": ""
+  },
+  {
+    "id": "hm003",
+    "category": "food",
+    "english": "Please buy Hmong sausage.",
+    "mien": ""
+  },
+  {
+    "id": "hm004",
+    "category": "food",
+    "english": "Please buy ground pork for noodle soup.",
+    "mien": ""
+  },
+  {
+    "id": "hm005",
+    "category": "food",
+    "english": "Please buy pork bones for broth.",
+    "mien": ""
+  },
+  {
+    "id": "hm006",
+    "category": "food",
+    "english": "Please buy chicken for soup.",
+    "mien": ""
+  },
+  {
+    "id": "hm007",
+    "category": "food",
+    "english": "Please buy rice noodles.",
+    "mien": ""
+  },
+  {
+    "id": "hm008",
+    "category": "food",
+    "english": "Please buy fermented bean paste.",
+    "mien": ""
+  },
+  {
+    "id": "hm009",
+    "category": "food",
+    "english": "Please buy tomatoes for the noodle soup.",
+    "mien": ""
+  },
+  {
+    "id": "hm010",
+    "category": "food",
+    "english": "Please buy mustard greens.",
+    "mien": ""
+  },
+  {
+    "id": "hm011",
+    "category": "food",
+    "english": "Please buy pickled mustard greens.",
+    "mien": ""
+  },
+  {
+    "id": "hm012",
+    "category": "food",
+    "english": "Please buy napa cabbage.",
+    "mien": ""
+  },
+  {
+    "id": "hm013",
+    "category": "food",
+    "english": "Please buy bok choy.",
+    "mien": ""
+  },
+  {
+    "id": "hm014",
+    "category": "food",
+    "english": "Please buy Chinese broccoli.",
+    "mien": ""
+  },
+  {
+    "id": "hm015",
+    "category": "food",
+    "english": "Please buy bitter melon.",
+    "mien": ""
+  },
+  {
+    "id": "hm016",
+    "category": "food",
+    "english": "Please buy Chinese long beans.",
+    "mien": ""
+  },
+  {
+    "id": "hm017",
+    "category": "food",
+    "english": "Please buy cucumbers.",
+    "mien": ""
+  },
+  {
+    "id": "hm018",
+    "category": "food",
+    "english": "Please buy cilantro.",
+    "mien": ""
+  },
+  {
+    "id": "hm019",
+    "category": "food",
+    "english": "Please buy green onions.",
+    "mien": ""
+  },
+  {
+    "id": "hm020",
+    "category": "food",
+    "english": "Please buy lemongrass.",
+    "mien": ""
+  },
+  {
+    "id": "hm021",
+    "category": "food",
+    "english": "Please buy ginger.",
+    "mien": ""
+  },
+  {
+    "id": "hm022",
+    "category": "food",
+    "english": "Please buy garlic.",
+    "mien": ""
+  },
+  {
+    "id": "hm023",
+    "category": "food",
+    "english": "Please buy shallots.",
+    "mien": ""
+  },
+  {
+    "id": "hm024",
+    "category": "food",
+    "english": "Please buy Thai chilis.",
+    "mien": ""
+  },
+  {
+    "id": "hm025",
+    "category": "food",
+    "english": "Please buy limes for pepper sauce.",
+    "mien": ""
+  },
+  {
+    "id": "hm026",
+    "category": "food",
+    "english": "Please buy fish sauce.",
+    "mien": ""
+  },
+  {
+    "id": "hm027",
+    "category": "food",
+    "english": "Please buy oyster sauce.",
+    "mien": ""
+  },
+  {
+    "id": "hm028",
+    "category": "food",
+    "english": "Please make pepper dip for the meal.",
+    "mien": ""
+  },
+  {
+    "id": "hm029",
+    "category": "food",
+    "english": "Please cook sticky rice for dinner.",
+    "mien": ""
+  },
+  {
+    "id": "hm030",
+    "category": "food",
+    "english": "Please steam the sausage.",
+    "mien": ""
+  },
+  {
+    "id": "hm031",
+    "category": "food",
+    "english": "Please boil the chicken with herbs.",
+    "mien": ""
+  },
+  {
+    "id": "hm032",
+    "category": "food",
+    "english": "Please make herb chicken soup.",
+    "mien": ""
+  },
+  {
+    "id": "hm033",
+    "category": "food",
+    "english": "Please cook mustard greens with pork.",
+    "mien": ""
+  },
+  {
+    "id": "hm034",
+    "category": "food",
+    "english": "Please boil the broth for the noodles.",
+    "mien": ""
+  },
+  {
+    "id": "hm035",
+    "category": "food",
+    "english": "Please add tomatoes to the soup.",
+    "mien": ""
+  },
+  {
+    "id": "hm036",
+    "category": "food",
+    "english": "Please add fermented bean paste to the soup.",
+    "mien": ""
+  },
+  {
+    "id": "hm037",
+    "category": "food",
+    "english": "Please add rice noodles to the bowl.",
+    "mien": ""
+  },
+  {
+    "id": "hm038",
+    "category": "food",
+    "english": "We are making noodle soup tonight.",
+    "mien": ""
+  },
+  {
+    "id": "hm039",
+    "category": "food",
+    "english": "We are making sticky rice and sausage.",
+    "mien": ""
+  },
+  {
+    "id": "hm040",
+    "category": "food",
+    "english": "We need herbs, rice, meat, and vegetables for dinner.",
+    "mien": ""
+  }
+]
