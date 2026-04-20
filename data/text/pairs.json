@@ -3,19 +3,19 @@
     "id": "g001",
     "category": "conversation",
     "english": "Hello.",
-    "mien": ""
+    "mien": "Hello."
   },
   {
     "id": "g002",
     "category": "conversation",
     "english": "Hi.",
-    "mien": ""
+    "mien": "Hi."
   },
   {
     "id": "g003",
     "category": "conversation",
     "english": "Good morning.",
-    "mien": ""
+    "mien": "Lungh ndorm longx."
   },
   {
     "id": "g004",
@@ -27,7 +27,7 @@
     "id": "g005",
     "category": "conversation",
     "english": "Good evening.",
-    "mien": ""
+    "mien": "Lungh muonz longx."
   },
   {
     "id": "g006",
@@ -39,19 +39,19 @@
     "id": "g007",
     "category": "conversation",
     "english": "How are you?",
-    "mien": "Yiem longx nyei?"
+    "mien": "Meih longx nyei?"
   },
   {
     "id": "g008",
     "category": "conversation",
     "english": "I am fine.",
-    "mien": ""
+    "mien": "Yie naaic longx."
   },
   {
     "id": "g009",
     "category": "conversation",
     "english": "I am good.",
-    "mien": ""
+    "mien": "Yie naaic longx."
   },
   {
     "id": "g010",
@@ -129,13 +129,13 @@
     "id": "g022",
     "category": "conversation",
     "english": "Thank you.",
-    "mien": ""
+    "mien": "Laengz zingh."
   },
   {
     "id": "g023",
     "category": "conversation",
     "english": "Thank you very much.",
-    "mien": ""
+    "mien": "Laengz zingh camv oc."
   },
   {
     "id": "g024",
@@ -171,13 +171,13 @@
     "id": "g029",
     "category": "conversation",
     "english": "No problem.",
-    "mien": ""
+    "mien": "Maiv benx haaix nyungc."
   },
   {
     "id": "g030",
     "category": "conversation",
     "english": "Yes.",
-    "mien": ""
+    "mien": "Aeqc."
   },
   {
     "id": "g031",
@@ -201,7 +201,7 @@
     "id": "g034",
     "category": "conversation",
     "english": "Not yet.",
-    "mien": ""
+    "mien": "Mv gaengh."
   },
   {
     "id": "g035",
@@ -213,19 +213,19 @@
     "id": "g036",
     "category": "conversation",
     "english": "See you later.",
-    "mien": ""
+    "mien": "Aengx buangh siang."
   },
   {
     "id": "g037",
     "category": "conversation",
     "english": "See you tomorrow.",
-    "mien": ""
+    "mien": "Njang hnoi aengx buangh."
   },
   {
     "id": "g038",
     "category": "conversation",
     "english": "Take care.",
-    "mien": ""
+    "mien": "Yiem long oc."
   },
   {
     "id": "g039",
@@ -243,25 +243,25 @@
     "id": "f001",
     "category": "people",
     "english": "What is your name?",
-    "mien": ""
+    "mien": "Meih nyei mbuox naaic haaix nyungc?"
   },
   {
     "id": "f002",
     "category": "people",
     "english": "My name is ___.",
-    "mien": ""
+    "mien": "Yie mbuox naaic ___."
   },
   {
     "id": "f003",
     "category": "people",
     "english": "Who are you?",
-    "mien": ""
+    "mien": "Meih naaic haaix dauh?"
   },
   {
     "id": "f004",
     "category": "people",
     "english": "I am your friend.",
-    "mien": ""
+    "mien": "Yie naaic meih nyei doic."
   },
   {
     "id": "f005",
@@ -273,43 +273,43 @@
     "id": "f006",
     "category": "people",
     "english": "He is my friend.",
-    "mien": ""
+    "mien": "Ninh naaic yie nyei doic."
   },
   {
     "id": "f007",
     "category": "people",
     "english": "She is my friend.",
-    "mien": ""
+    "mien": "Ninh naaic yie nyei doic."
   },
   {
     "id": "f008",
     "category": "people",
     "english": "This is my father.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei dae."
   },
   {
     "id": "f009",
     "category": "people",
     "english": "This is my mother.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei maa."
   },
   {
     "id": "f010",
     "category": "people",
     "english": "This is my son.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei dorn."
   },
   {
     "id": "f011",
     "category": "people",
     "english": "This is my daughter.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei sieqv."
   },
   {
     "id": "f012",
     "category": "people",
     "english": "This is my older brother.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei gorx."
   },
   {
     "id": "f013",
@@ -321,37 +321,37 @@
     "id": "f014",
     "category": "people",
     "english": "This is my older sister.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei dorc."
   },
   {
     "id": "f015",
     "category": "people",
     "english": "This is my younger sister.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei muoc."
   },
   {
     "id": "f016",
     "category": "people",
     "english": "This is my grandfather.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei ong."
   },
   {
     "id": "f017",
     "category": "people",
     "english": "This is my grandmother.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei gux."
   },
   {
     "id": "f018",
     "category": "people",
     "english": "This is my uncle.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei baeqv."
   },
   {
     "id": "f019",
     "category": "people",
     "english": "This is my aunt.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei gou."
   },
   {
     "id": "f020",
@@ -363,61 +363,61 @@
     "id": "f021",
     "category": "people",
     "english": "This is my husband.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei ngox."
   },
   {
     "id": "f022",
     "category": "people",
     "english": "This is my wife.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei auv."
   },
   {
     "id": "f023",
     "category": "people",
     "english": "This is my baby.",
-    "mien": ""
+    "mien": "Naaiv naaic nyei gu'nguaaz."
   },
   {
     "id": "f024",
     "category": "people",
     "english": "Who is he?",
-    "mien": ""
+    "mien": "Ninh naaic haaix dauh?"
   },
   {
     "id": "f025",
     "category": "people",
     "english": "Who is she?",
-    "mien": ""
+    "mien": "Ninh naaic haaix dauh?"
   },
   {
     "id": "f026",
     "category": "people",
     "english": "Who is this?",
-    "mien": ""
+    "mien": "Ninh naaic haaix dauh?"
   },
   {
     "id": "f027",
     "category": "people",
     "english": "Where is your father?",
-    "mien": ""
+    "mien": "Meih nyei dae naaic yiem haaix?"
   },
   {
     "id": "f028",
     "category": "people",
     "english": "Where is your mother?",
-    "mien": ""
+    "mien": "Meih nyei maa naaic yiem haaix?"
   },
   {
     "id": "f029",
     "category": "people",
     "english": "Where is your brother?",
-    "mien": ""
+    "mien": "Meih nyei gorx naaic yiem haaix?"
   },
   {
     "id": "f030",
     "category": "people",
     "english": "Where is your sister?",
-    "mien": ""
+    "mien": "Meih nyei dorc naaic yiem haaix?"
   },
   {
     "id": "f031",
@@ -459,25 +459,25 @@
     "id": "f037",
     "category": "people",
     "english": "I have one son.",
-    "mien": ""
+    "mien": "Yie maaih yietc dorn."
   },
   {
     "id": "f038",
     "category": "people",
     "english": "I have one daughter.",
-    "mien": ""
+    "mien": "Yie maaih yietc sieqv."
   },
   {
     "id": "f039",
     "category": "people",
     "english": "I have two children.",
-    "mien": ""
+    "mien": "Yie maaih i dauh fuqc jueiv."
   },
   {
     "id": "f040",
     "category": "people",
     "english": "Do you have children?",
-    "mien": ""
+    "mien": "Meih maaih fuqc jueiv nyei?"
   },
   {
     "id": "f041",
@@ -489,13 +489,13 @@
     "id": "f042",
     "category": "people",
     "english": "He is my father.",
-    "mien": ""
+    "mien": "Ninh naaic yie nyei dae."
   },
   {
     "id": "f043",
     "category": "people",
     "english": "She is my mother.",
-    "mien": ""
+    "mien": "Ninh naaic yie nyei maa."
   },
   {
     "id": "f044",
@@ -507,7 +507,7 @@
     "id": "f045",
     "category": "people",
     "english": "He is my younger brother.",
-    "mien": ""
+    "mien": "Ninh naaic yie nyei gorx lunx."
   },
   {
     "id": "f046",
@@ -603,7 +603,7 @@
     "id": "h001",
     "category": "home",
     "english": "I am at home.",
-    "mien": ""
+    "mien": "Yie naaic yiem biauv."
   },
   {
     "id": "h002",
@@ -740,8 +740,8 @@
   {
     "id": "h024",
     "category": "home",
-    "english": "I need to rest.",
-    "mien": ""
+    "english": "I need to go rest.",
+    "mien": "Yie oix zuqc mingh bueix."
   },
   {
     "id": "h025",
@@ -1023,7 +1023,7 @@
     "id": "fd001",
     "category": "food",
     "english": "I am hungry.",
-    "mien": ""
+    "mien": "Yie haiz hnyouv sie."
   },
   {
     "id": "fd002",
@@ -1041,19 +1041,19 @@
     "id": "fd004",
     "category": "food",
     "english": "Do you want to drink water?",
-    "mien": ""
+    "mien": "Meih oix hopv uom nyei?"
   },
   {
     "id": "fd005",
     "category": "food",
     "english": "I want to eat.",
-    "mien": ""
+    "mien": "Yie oix nyanc hnaangx."
   },
   {
     "id": "fd006",
     "category": "food",
     "english": "I want to drink water.",
-    "mien": ""
+    "mien": "Yie oix hopv uom."
   },
   {
     "id": "fd007",
@@ -1071,19 +1071,19 @@
     "id": "fd009",
     "category": "food",
     "english": "I am eating meat.",
-    "mien": ""
+    "mien": "Yie naaic nyanc orv."
   },
   {
     "id": "fd010",
     "category": "food",
     "english": "I am drinking water.",
-    "mien": ""
+    "mien": "Yie naaic hopv uom."
   },
   {
     "id": "fd011",
     "category": "food",
     "english": "I am drinking tea.",
-    "mien": ""
+    "mien": "Yie naaic hopv zaah."
   },
   {
     "id": "fd012",
@@ -1113,7 +1113,7 @@
     "id": "fd016",
     "category": "food",
     "english": "The food is not good.",
-    "mien": ""
+    "mien": "Hnaangx naaic mv kuv."
   },
   {
     "id": "fd017",
@@ -1365,43 +1365,43 @@
     "id": "t008",
     "category": "time",
     "english": "Today is Monday.",
-    "mien": ""
+    "mien": "Ih hnoi naaic Yietv."
   },
   {
     "id": "t009",
     "category": "time",
     "english": "Today is Tuesday.",
-    "mien": ""
+    "mien": "Ih hnoi naaic Nyeic."
   },
   {
     "id": "t010",
     "category": "time",
     "english": "Today is Wednesday.",
-    "mien": ""
+    "mien": "Ih hnoi naaic Faam."
   },
   {
     "id": "t011",
     "category": "time",
     "english": "Today is Thursday.",
-    "mien": ""
+    "mien": "Ih hnoi naaic Thuresday."
   },
   {
     "id": "t012",
     "category": "time",
     "english": "Today is Friday.",
-    "mien": ""
+    "mien": "Ih hnoi naaic Hmz."
   },
   {
     "id": "t013",
     "category": "time",
     "english": "Today is Saturday.",
-    "mien": ""
+    "mien": "Ih hnoi naaic Luoqc."
   },
   {
     "id": "t014",
     "category": "time",
     "english": "Today is Sunday.",
-    "mien": ""
+    "mien": "Ih hnoi naaic Hnoi."
   },
   {
     "id": "t015",
@@ -1419,13 +1419,13 @@
     "id": "t017",
     "category": "time",
     "english": "Today I am at home.",
-    "mien": ""
+    "mien": "Ih hnoi yie naaic yiem biauv."
   },
   {
     "id": "t018",
     "category": "time",
     "english": "Today I am working.",
-    "mien": ""
+    "mien": "Ih hnoi yie zoux gong."
   },
   {
     "id": "t019",
@@ -1623,19 +1623,19 @@
     "id": "l001",
     "category": "travel",
     "english": "Where are you?",
-    "mien": ""
+    "mien": "Meih yiem haaix?"
   },
   {
     "id": "l002",
     "category": "travel",
     "english": "Where is he?",
-    "mien": ""
+    "mien": "Ninh yiem haaix?"
   },
   {
     "id": "l003",
     "category": "travel",
     "english": "Where is she?",
-    "mien": ""
+    "mien": "Ninh yiem haaix?"
   },
   {
     "id": "l004",
@@ -1827,13 +1827,13 @@
     "id": "hb005",
     "category": "health",
     "english": "My head hurts.",
-    "mien": ""
+    "mien": "Nyeh m'nqorngv mun."
   },
   {
     "id": "hb006",
     "category": "health",
     "english": "My stomach hurts.",
-    "mien": ""
+    "mien": "Nyeh ga'sie mun."
   },
   {
     "id": "hb007",
@@ -1869,7 +1869,7 @@
     "id": "hb012",
     "category": "health",
     "english": "My tooth hurts.",
-    "mien": ""
+    "mien": "Nyeh nyaah mun."
   },
   {
     "id": "hb013",
@@ -1941,13 +1941,13 @@
     "id": "hb024",
     "category": "health",
     "english": "Where does it hurt?",
-    "mien": ""
+    "mien": "Mun yiem haaix?"
   },
   {
     "id": "hb025",
     "category": "health",
     "english": "Does your head hurt?",
-    "mien": ""
+    "mien": "Meih nyei m'nqorngv mun nyeh?"
   },
   {
     "id": "hb026",
@@ -2158,6 +2158,18 @@
     "category": "health",
     "english": "I need help.",
     "mien": ""
+  },
+  {
+    "id": "hb061",
+    "category": "health",
+    "english": "I am well.",
+    "mien": "Yie longx nyei."
+  },
+  {
+    "id": "hb061",
+    "category": "health",
+    "english": "I am not well.",
+    "mien": "Yie mv longx."
   },
   {
     "id": "sw001",
@@ -2403,19 +2415,19 @@
     "id": "sm001",
     "category": "shopping",
     "english": "I want to buy this.",
-    "mien": ""
+    "mien": "Yie oix maaiz naaiv."
   },
   {
     "id": "sm002",
     "category": "shopping",
     "english": "I do not want to buy this.",
-    "mien": ""
+    "mien": "Yie mv oix maaiz naaiv."
   },
   {
     "id": "sm003",
     "category": "shopping",
     "english": "How much is this?",
-    "mien": ""
+    "mien": "Ninh naaic mbuoqc ziex?"
   },
   {
     "id": "sm004",
@@ -2583,19 +2595,19 @@
     "id": "hs001",
     "category": "emergency",
     "english": "Help me.",
-    "mien": ""
+    "mien": "Tengx yie."
   },
   {
     "id": "hs002",
     "category": "emergency",
     "english": "Please help him.",
-    "mien": ""
+    "mien": "Tov tengx ninh."
   },
   {
     "id": "hs003",
     "category": "emergency",
     "english": "Please help her.",
-    "mien": ""
+    "mien": "Tov tengx ninh."
   },
   {
     "id": "hs004",
@@ -2919,13 +2931,13 @@
     "id": "rv007",
     "category": "review",
     "english": "I am coming.",
-    "mien": ""
+    "mien": "Yie daaih aqv."
   },
   {
     "id": "rv008",
     "category": "review",
     "english": "I am going.",
-    "mien": ""
+    "mien": "Yie mingh nyeh."
   },
   {
     "id": "rv009",
@@ -2943,13 +2955,14 @@
     "id": "rv011",
     "category": "review",
     "english": "I can go.",
-    "mien": ""
+    "mien": "Yie haih mingh nyeh."
+    ,"review": "is nyeh needed?"
   },
   {
     "id": "rv012",
     "category": "review",
     "english": "I cannot go.",
-    "mien": ""
+    "mien": "Yie mv haih mingh."
   },
   {
     "id": "rv013",
@@ -2961,7 +2974,7 @@
     "id": "rv014",
     "category": "review",
     "english": "I do not know him.",
-    "mien": ""
+    "mien": "Yie mv hiuv ninh."
   },
   {
     "id": "rv015",
@@ -3687,7 +3700,7 @@
     "id": "rv055",
     "category": "review",
     "english": "He cannot come.",
-    "mien": ""
+    "mien": "Ninh mv haih daaih."
   },
   {
     "id": "rv056",
@@ -3699,7 +3712,7 @@
     "id": "rv057",
     "category": "review",
     "english": "She cannot go.",
-    "mien": ""
+    "mien": "Ninh mv haih mingh."
   },
   {
     "id": "rv058",
@@ -3778,6 +3791,12 @@
     "category": "review",
     "english": "The right side hurts.",
     "mien": ""
+  },
+  {
+    "id": "rv071",
+    "category": "review",
+    "english": "I do not know.",
+    "mien": "Yie mv hiuv."
   },
   {
     "id": "hs021",
@@ -4281,25 +4300,25 @@
     "id": "hs104",
     "category": "emergency",
     "english": "He has a gun.",
-    "mien": ""
+    "mien": "Ninh maaih congx."
   },
   {
     "id": "hs105",
     "category": "emergency",
     "english": "She has a gun.",
-    "mien": ""
+    "mien": "Ninh maaih congx."
   },
   {
     "id": "hs106",
     "category": "emergency",
     "english": "He has a knife.",
-    "mien": ""
+    "mien": "Ninh maaih nzuqc."
   },
   {
     "id": "hs107",
     "category": "emergency",
     "english": "She has a knife.",
-    "mien": ""
+    "mien": "Ninh maaih nzuqc."
   },
   {
     "id": "hs108",
@@ -4467,13 +4486,13 @@
     "id": "hs135",
     "category": "emergency",
     "english": "He hit me.",
-    "mien": ""
+    "mien": "Ninh mborqv yie."
   },
   {
     "id": "hs136",
     "category": "emergency",
     "english": "She hit me.",
-    "mien": ""
+    "mien": "Ninh mborqv yie."
   },
   {
     "id": "hs137",
@@ -4563,19 +4582,19 @@
     "id": "st001",
     "category": "conversation",
     "english": "How are you today?",
-    "mien": ""
+    "mien": "Ih hnoi meih longx nyei?"
   },
   {
     "id": "st002",
     "category": "conversation",
     "english": "I am doing well today.",
-    "mien": ""
+    "mien": "Ih hnoi yie naaic longx nyei."
   },
   {
     "id": "st003",
     "category": "conversation",
     "english": "I am doing okay.",
-    "mien": ""
+    "mien": "Yie naaic longx nyei."
   },
   {
     "id": "st004",
@@ -4923,7 +4942,7 @@
     "id": "st061",
     "category": "conversation",
     "english": "Where are you going?",
-    "mien": ""
+    "mien": "Meih mingh haaix?"
   },
   {
     "id": "st062",
